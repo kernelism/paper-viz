@@ -1,0 +1,6399 @@
+{
+  "threshold": 0.0042042,
+  "nodes": [
+    {
+      "id": "hiphopimages",
+      "label": "hiphopimages",
+      "community": 0,
+      "x": -0.2849380285642581,
+      "y": 0.8807690283653392,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "guitarlessons",
+      "label": "guitarlessons",
+      "community": 1,
+      "x": -0.5519025641381152,
+      "y": 0.24398225619938538,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "spotify",
+      "label": "spotify",
+      "community": 1,
+      "x": -0.3399608420912599,
+      "y": 0.43642126243959717,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "popheads",
+      "label": "popheads",
+      "community": 1,
+      "x": -0.6975879533745599,
+      "y": -0.08142631328610526,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "bass",
+      "label": "bass",
+      "community": 1,
+      "x": -0.7558561151744083,
+      "y": -0.027088147365847103,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "kanye",
+      "label": "kanye",
+      "community": 1,
+      "x": -0.6193894755192442,
+      "y": 0.27996597550850816,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "Metal",
+      "label": "Metal",
+      "community": 1,
+      "x": -0.1974136742599977,
+      "y": -0.13444160989682002,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "fakealbumcovers",
+      "label": "fakealbumcovers",
+      "community": 1,
+      "x": -0.7167618531818583,
+      "y": -0.11003726278867203,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "trap",
+      "label": "trap",
+      "community": 0,
+      "x": -0.7713807648922848,
+      "y": 0.23364700800156116,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "spop",
+      "label": "spop",
+      "community": 0,
+      "x": -0.8277619467709751,
+      "y": -0.05596102760436342,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "electronicmusic",
+      "label": "electronicmusic",
+      "community": 1,
+      "x": -0.535248490910186,
+      "y": -0.18906540315553047,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "futurebeats",
+      "label": "futurebeats",
+      "community": 0,
+      "x": -0.9146087039176086,
+      "y": 0.13740125924368943,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "indieheads",
+      "label": "indieheads",
+      "community": 2,
+      "x": -0.17752424835676012,
+      "y": 0.9834797811494244,
+      "color": "#920cf2"
+    },
+    {
+      "id": "classicalmusic",
+      "label": "classicalmusic",
+      "community": 1,
+      "x": -0.6546996361239202,
+      "y": -0.09490027905745084,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "HipHopHeads",
+      "label": "HipHopHeads",
+      "community": 1,
+      "x": -0.5808902081926827,
+      "y": -0.0984662662822675,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "LetsTalkMusic",
+      "label": "LetsTalkMusic",
+      "community": 3,
+      "x": 0.8190452729336671,
+      "y": -0.17315899470248583,
+      "color": "#f2d50c"
+    },
+    {
+      "id": "gamemusic",
+      "label": "gamemusic",
+      "community": 0,
+      "x": -0.8008268846630281,
+      "y": 0.17640230358734385,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "donaldglover",
+      "label": "donaldglover",
+      "community": 3,
+      "x": 0.6962572068727894,
+      "y": -0.10238619414702707,
+      "color": "#f2d50c"
+    },
+    {
+      "id": "ableton",
+      "label": "ableton",
+      "community": 1,
+      "x": -0.5898680721812373,
+      "y": 0.04301493229481918,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "pinkfloyd",
+      "label": "pinkfloyd",
+      "community": 1,
+      "x": -0.5981621065965513,
+      "y": -0.14771935109712603,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "musictheory",
+      "label": "musictheory",
+      "community": 0,
+      "x": -0.8835337445292937,
+      "y": 0.011238286476111801,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "mashups",
+      "label": "mashups",
+      "community": 1,
+      "x": -0.8372951624133719,
+      "y": 0.1600751108813859,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "beatles",
+      "label": "beatles",
+      "community": 4,
+      "x": -0.19318875024666357,
+      "y": 0.15480118019348282,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "music",
+      "label": "music",
+      "community": 0,
+      "x": -0.8921680670460019,
+      "y": 0.2367415748012717,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "outrun",
+      "label": "outrun",
+      "community": 1,
+      "x": -0.6289966621342761,
+      "y": 0.05985214276428202,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "dubstep",
+      "label": "dubstep",
+      "community": 1,
+      "x": 0.3006947224329909,
+      "y": -0.2492403430571979,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "radiohead",
+      "label": "radiohead",
+      "community": 0,
+      "x": -0.09248052707683617,
+      "y": 0.633722723879358,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "jazz",
+      "label": "jazz",
+      "community": 1,
+      "x": -0.46823847310380623,
+      "y": 0.05733250468869893,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "deathgrips",
+      "label": "deathgrips",
+      "community": 1,
+      "x": -0.7391845261716952,
+      "y": -0.31831022341916004,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "gorillaz",
+      "label": "gorillaz",
+      "community": 1,
+      "x": -0.7121366108160088,
+      "y": 0.09252585828309982,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "vaporwave",
+      "label": "vaporwave",
+      "community": 0,
+      "x": -0.4768648163417372,
+      "y": 0.39030254426997313,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "funkopop",
+      "label": "funkopop",
+      "community": 0,
+      "x": -0.22063349928386092,
+      "y": 0.07330334557479153,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "frankocean",
+      "label": "frankocean",
+      "community": 1,
+      "x": -0.6748493983117532,
+      "y": 0.2931825414718699,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "brockhampton",
+      "label": "brockhampton",
+      "community": 1,
+      "x": -0.5252716327176753,
+      "y": -0.27062884847964724,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "listentothis",
+      "label": "listentothis",
+      "community": 5,
+      "x": -0.057972420954620955,
+      "y": 0.004692292128310139,
+      "color": "#f20c88"
+    },
+    {
+      "id": "KendrickLamar",
+      "label": "KendrickLamar",
+      "community": 1,
+      "x": -0.42617986346722125,
+      "y": 0.3297074204844048,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "WeAreTheMusicMakers",
+      "label": "WeAreTheMusicMakers",
+      "community": 1,
+      "x": -0.5167688233288802,
+      "y": 0.13636186983390697,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "eminem",
+      "label": "eminem",
+      "community": 0,
+      "x": -0.37647245194315865,
+      "y": 0.265848461416732,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "vinyl",
+      "label": "vinyl",
+      "community": 1,
+      "x": -0.4782207436132583,
+      "y": 0.3253011009047171,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "piano",
+      "label": "piano",
+      "community": 0,
+      "x": -0.7313653931042106,
+      "y": -0.19448818718012,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "Metalcore",
+      "label": "Metalcore",
+      "community": 1,
+      "x": -0.6269764780387688,
+      "y": -0.19030103766473758,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "edmproduction",
+      "label": "edmproduction",
+      "community": 1,
+      "x": -0.6872050190875321,
+      "y": 0.025740994359083866,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "drums",
+      "label": "drums",
+      "community": 1,
+      "x": -0.5734394470892565,
+      "y": 0.07382769226013579,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "guitar",
+      "label": "guitar",
+      "community": 0,
+      "x": -0.3245613549736795,
+      "y": 0.5167150106475553,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "kpop",
+      "label": "kpop",
+      "community": 0,
+      "x": -0.5627939843098935,
+      "y": -0.04635725207582506,
+      "color": "#f20c0c"
+    },
+    {
+      "id": "Analytics",
+      "label": "Analytics",
+      "community": 6,
+      "x": 0.22865562761365982,
+      "y": -0.03943634099218479,
+      "color": "#45f20c"
+    },
+    {
+      "id": "nasa",
+      "label": "nasa",
+      "community": 6,
+      "x": 0.21536698961787074,
+      "y": -0.1180143585883058,
+      "color": "#45f20c"
+    },
+    {
+      "id": "medicine",
+      "label": "medicine",
+      "community": 6,
+      "x": 0.47121433525146283,
+      "y": -0.02131273363533836,
+      "color": "#45f20c"
+    },
+    {
+      "id": "rockets",
+      "label": "rockets",
+      "community": 7,
+      "x": 0.23377743884553429,
+      "y": -0.7839195952027258,
+      "color": "#160cf2"
+    },
+    {
+      "id": "SpacePorn",
+      "label": "SpacePorn",
+      "community": 6,
+      "x": 0.27021400629125325,
+      "y": -0.206415093827014,
+      "color": "#45f20c"
+    },
+    {
+      "id": "chemicalreactiongifs",
+      "label": "chemicalreactiongifs",
+      "community": 6,
+      "x": 0.14542455540913388,
+      "y": -0.1512658777391961,
+      "color": "#45f20c"
+    },
+    {
+      "id": "explainlikeimfive",
+      "label": "explainlikeimfive",
+      "community": 6,
+      "x": 0.2520106742239707,
+      "y": -0.08380542564450766,
+      "color": "#45f20c"
+    },
+    {
+      "id": "geology",
+      "label": "geology",
+      "community": 6,
+      "x": 0.34998115859747136,
+      "y": -0.2963309530432198,
+      "color": "#45f20c"
+    },
+    {
+      "id": "BusinessIntelligence",
+      "label": "BusinessIntelligence",
+      "community": 6,
+      "x": 0.020392038862498928,
+      "y": -0.15016809262571817,
+      "color": "#45f20c"
+    },
+    {
+      "id": "Awwducational",
+      "label": "Awwducational",
+      "community": 6,
+      "x": 0.407923022009715,
+      "y": -0.11541933714974534,
+      "color": "#45f20c"
+    },
+    {
+      "id": "AskScience",
+      "label": "AskScience",
+      "community": 8,
+      "x": -0.552896288247783,
+      "y": -0.836629718363522,
+      "color": "#f2590c"
+    },
+    {
+      "id": "chemistry",
+      "label": "chemistry",
+      "community": 6,
+      "x": 0.18174780311713232,
+      "y": -0.23575995814847917,
+      "color": "#45f20c"
+    },
+    {
+      "id": "todayilearned",
+      "label": "todayilearned",
+      "community": 4,
+      "x": -0.19718042583393086,
+      "y": 0.36634663401687895,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "skeptic",
+      "label": "skeptic",
+      "community": 7,
+      "x": -0.005791210345036862,
+      "y": -0.3305911255541988,
+      "color": "#160cf2"
+    },
+    {
+      "id": "cogsci",
+      "label": "cogsci",
+      "community": 9,
+      "x": 0.8646674902291352,
+      "y": 0.4539504669766254,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "MachineLearning",
+      "label": "MachineLearning",
+      "community": 4,
+      "x": -0.22431699603098995,
+      "y": 0.5067324411516912,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "astrophotography",
+      "label": "astrophotography",
+      "community": 6,
+      "x": 0.22465654687176403,
+      "y": -0.19634167932472413,
+      "color": "#45f20c"
+    },
+    {
+      "id": "spacex",
+      "label": "spacex",
+      "community": 5,
+      "x": 0.07418351635707032,
+      "y": -0.2246735293570525,
+      "color": "#f20c88"
+    },
+    {
+      "id": "astronomy",
+      "label": "astronomy",
+      "community": 6,
+      "x": 0.831271651686614,
+      "y": 0.166418438993693,
+      "color": "#45f20c"
+    },
+    {
+      "id": "aliens",
+      "label": "aliens",
+      "community": 5,
+      "x": -0.051114648888574137,
+      "y": 0.05668702580338762,
+      "color": "#f20c88"
+    },
+    {
+      "id": "Space",
+      "label": "Space",
+      "community": 6,
+      "x": -0.02080521613216158,
+      "y": -0.38188799027312736,
+      "color": "#45f20c"
+    },
+    {
+      "id": "climateskeptics",
+      "label": "climateskeptics",
+      "community": 10,
+      "x": -0.9522757419757456,
+      "y": -0.37106713108298195,
+      "color": "#df0cf2"
+    },
+    {
+      "id": "biology",
+      "label": "biology",
+      "community": 5,
+      "x": 0.3091439052798557,
+      "y": -0.42493933867556555,
+      "color": "#f20c88"
+    },
+    {
+      "id": "physics",
+      "label": "physics",
+      "community": 6,
+      "x": 0.13681412922432373,
+      "y": 0.030230586676866598,
+      "color": "#45f20c"
+    },
+    {
+      "id": "science",
+      "label": "science",
+      "community": 4,
+      "x": -0.057678578962694536,
+      "y": 0.7212680955091375,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "militarygfys",
+      "label": "militarygfys",
+      "community": 11,
+      "x": 0.030380465919113808,
+      "y": -0.782109158898887,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "ar15",
+      "label": "ar15",
+      "community": 11,
+      "x": 0.1399385851640213,
+      "y": -0.6594763337475296,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "MilitaryPorn",
+      "label": "MilitaryPorn",
+      "community": 5,
+      "x": -0.14131949870666083,
+      "y": -0.3068240240558691,
+      "color": "#f20c88"
+    },
+    {
+      "id": "PhillyGuns",
+      "label": "PhillyGuns",
+      "community": 11,
+      "x": 0.8385619156227876,
+      "y": -0.16696399053368785,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "Illinoisccw",
+      "label": "Illinoisccw",
+      "community": 5,
+      "x": 0.024821577324225564,
+      "y": -0.2104422310220149,
+      "color": "#f20c88"
+    },
+    {
+      "id": "GunsAreCool",
+      "label": "GunsAreCool",
+      "community": 11,
+      "x": 0.22608205532840256,
+      "y": -0.6666151326807812,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "ccw",
+      "label": "ccw",
+      "community": 11,
+      "x": -0.046850724812634796,
+      "y": -0.4475163619508222,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "SanDiegoGuns",
+      "label": "SanDiegoGuns",
+      "community": 12,
+      "x": 0.9539169634926374,
+      "y": -0.4784172322613149,
+      "color": "#0c7ff2"
+    },
+    {
+      "id": "firearms",
+      "label": "firearms",
+      "community": 11,
+      "x": 0.116179795728001,
+      "y": -0.5305697333610205,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "SanAntonioGuns",
+      "label": "SanAntonioGuns",
+      "community": 5,
+      "x": -0.01459549517830698,
+      "y": 0.3577445508869501,
+      "color": "#f20c88"
+    },
+    {
+      "id": "UKshooting",
+      "label": "UKshooting",
+      "community": 4,
+      "x": -0.20165394510268397,
+      "y": 0.27415794691981776,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "pdxgunnuts",
+      "label": "pdxgunnuts",
+      "community": 5,
+      "x": 0.3477153687142645,
+      "y": -0.47764410171512633,
+      "color": "#f20c88"
+    },
+    {
+      "id": "airsoft",
+      "label": "airsoft",
+      "community": 11,
+      "x": 0.021707963891691967,
+      "y": -0.5746358402161077,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "justbootthings",
+      "label": "justbootthings",
+      "community": 11,
+      "x": 0.15970338944595597,
+      "y": -0.6952613302321704,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "gunporn",
+      "label": "gunporn",
+      "community": 11,
+      "x": -0.2543194056196767,
+      "y": -0.48098172014160556,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "SwitzerlandGuns",
+      "label": "SwitzerlandGuns",
+      "community": 5,
+      "x": 0.28733235458718365,
+      "y": -0.12446744519820793,
+      "color": "#f20c88"
+    },
+    {
+      "id": "gundeals",
+      "label": "gundeals",
+      "community": 11,
+      "x": -0.011825306845268028,
+      "y": -0.46418919397158054,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "gunpolitics",
+      "label": "gunpolitics",
+      "community": 7,
+      "x": 0.19940895181356227,
+      "y": -0.4536049440403808,
+      "color": "#160cf2"
+    },
+    {
+      "id": "combatfootage",
+      "label": "combatfootage",
+      "community": 11,
+      "x": 0.055176254517801206,
+      "y": -0.5832820792425242,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "Argmas",
+      "label": "Argmas",
+      "community": 4,
+      "x": -0.09062711414979467,
+      "y": 0.20507005378726162,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "army",
+      "label": "army",
+      "community": 11,
+      "x": 0.09708645717331184,
+      "y": -0.5038598125517322,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "BayAreaGunMeetups",
+      "label": "BayAreaGunMeetups",
+      "community": 5,
+      "x": 0.022647059143598807,
+      "y": -0.07636620808848427,
+      "color": "#f20c88"
+    },
+    {
+      "id": "warshipporn",
+      "label": "warshipporn",
+      "community": 11,
+      "x": 0.07767361186726243,
+      "y": -0.6826934859316749,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "AUSguns",
+      "label": "AUSguns",
+      "community": 5,
+      "x": 0.018028400992116132,
+      "y": 0.696181582696197,
+      "color": "#f20c88"
+    },
+    {
+      "id": "guns",
+      "label": "guns",
+      "community": 11,
+      "x": 0.09222469998847373,
+      "y": -0.6109376876793671,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "military",
+      "label": "military",
+      "community": 11,
+      "x": 0.1986885551271675,
+      "y": -0.5986392732315204,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "chicagobulls",
+      "label": "chicagobulls",
+      "community": 9,
+      "x": 0.4102892934399149,
+      "y": 0.2880106811449057,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "chelseafc",
+      "label": "chelseafc",
+      "community": 9,
+      "x": 0.5035487355982761,
+      "y": 0.4632511919421878,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "discgolf",
+      "label": "discgolf",
+      "community": 9,
+      "x": 0.8525752007719699,
+      "y": 0.16741798855537296,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "gunners",
+      "label": "gunners",
+      "community": 9,
+      "x": 0.9688115650391009,
+      "y": 0.3574343531418357,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "patriots",
+      "label": "patriots",
+      "community": 14,
+      "x": 0.45593564636115974,
+      "y": -0.9117866424137052,
+      "color": "#0cf220"
+    },
+    {
+      "id": "ufc",
+      "label": "ufc",
+      "community": 9,
+      "x": 0.026135880921369387,
+      "y": 0.5236075250740575,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "minnesotavikings",
+      "label": "minnesotavikings",
+      "community": 5,
+      "x": 0.2735150229250454,
+      "y": 0.03777598819833865,
+      "color": "#f20c88"
+    },
+    {
+      "id": "fantasybball",
+      "label": "fantasybball",
+      "community": 9,
+      "x": 0.3456350739389278,
+      "y": 0.550319973035225,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "skiing",
+      "label": "skiing",
+      "community": 4,
+      "x": -0.6405583258375389,
+      "y": 0.19723491099055512,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "losangelesrams",
+      "label": "losangelesrams",
+      "community": 9,
+      "x": 0.6186839342856901,
+      "y": 0.7119750242450403,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "LiverpoolFC",
+      "label": "LiverpoolFC",
+      "community": 9,
+      "x": 0.5798786593191149,
+      "y": 0.2739693978204224,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "Cricket",
+      "label": "Cricket",
+      "community": 9,
+      "x": 0.7744812876604058,
+      "y": 0.14993008955077605,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "futbol",
+      "label": "futbol",
+      "community": 15,
+      "x": -0.521671107677536,
+      "y": 0.8567465415337113,
+      "color": "#630cf2"
+    },
+    {
+      "id": "warriors",
+      "label": "warriors",
+      "community": 9,
+      "x": 0.5650921191746682,
+      "y": 0.8322634290562462,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "sixers",
+      "label": "sixers",
+      "community": 9,
+      "x": 0.2397526385137142,
+      "y": 0.41515779874939773,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "CollegeBasketball",
+      "label": "CollegeBasketball",
+      "community": 9,
+      "x": 0.4674460384884391,
+      "y": 0.3542241416693269,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "olympics",
+      "label": "olympics",
+      "community": 11,
+      "x": 0.007194515381323008,
+      "y": -0.5843685272889307,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "baseball",
+      "label": "baseball",
+      "community": 9,
+      "x": 0.35117931859714946,
+      "y": 0.36638170968327044,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "nba",
+      "label": "nba",
+      "community": 9,
+      "x": 0.2561326861573736,
+      "y": 0.4682615273183661,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "MMA",
+      "label": "MMA",
+      "community": 9,
+      "x": 0.6350297694201116,
+      "y": 0.6096866215570096,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "nfl",
+      "label": "nfl",
+      "community": 9,
+      "x": 0.4071496794640091,
+      "y": 0.04235075567101881,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "fantasyfootball",
+      "label": "fantasyfootball",
+      "community": 9,
+      "x": 0.4342680521700587,
+      "y": 0.5536830198645739,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "leafs",
+      "label": "leafs",
+      "community": 9,
+      "x": 0.5974540431112362,
+      "y": -0.021931295754569858,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "Nascar",
+      "label": "Nascar",
+      "community": 9,
+      "x": 0.5419855263267724,
+      "y": 0.4881637284092709,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "theocho",
+      "label": "theocho",
+      "community": 9,
+      "x": 0.23688055667587113,
+      "y": 0.36377402461790953,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "tennis",
+      "label": "tennis",
+      "community": 9,
+      "x": 0.3406352295970427,
+      "y": 0.24021770672157938,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "reddevils",
+      "label": "reddevils",
+      "community": 16,
+      "x": -0.7852519717940017,
+      "y": 0.8004779651996314,
+      "color": "#f2a60c"
+    },
+    {
+      "id": "torontoraptors",
+      "label": "torontoraptors",
+      "community": 9,
+      "x": 0.5752479259243206,
+      "y": 0.7355515436499145,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "bicycling",
+      "label": "bicycling",
+      "community": 9,
+      "x": 0.7974797100585129,
+      "y": 0.7385131159041096,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "rugbyunion",
+      "label": "rugbyunion",
+      "community": 9,
+      "x": 0.05148650890482585,
+      "y": 0.4616808443193557,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "Bundesliga",
+      "label": "Bundesliga",
+      "community": 9,
+      "x": 0.8806871698376421,
+      "y": 0.012682170098246754,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "nhl",
+      "label": "nhl",
+      "community": 9,
+      "x": 0.2091101489832344,
+      "y": 0.611744692205048,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "soccer",
+      "label": "soccer",
+      "community": 9,
+      "x": 0.5679233263717958,
+      "y": 0.222991750791251,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "squaredcircle",
+      "label": "squaredcircle",
+      "community": 17,
+      "x": 0.12334264336961163,
+      "y": -0.9999999999999999,
+      "color": "#0cf2e9"
+    },
+    {
+      "id": "longboarding",
+      "label": "longboarding",
+      "community": 9,
+      "x": 0.15491358624270218,
+      "y": 0.46530098495174593,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "fantasypl",
+      "label": "fantasypl",
+      "community": 5,
+      "x": -0.08404679071206843,
+      "y": -0.10704375873234602,
+      "color": "#f20c88"
+    },
+    {
+      "id": "eagles",
+      "label": "eagles",
+      "community": 9,
+      "x": 0.9703163781821295,
+      "y": 0.23531073843554323,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "fishing",
+      "label": "fishing",
+      "community": 9,
+      "x": 0.6048699513717092,
+      "y": 0.5678273664202637,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "wwe",
+      "label": "wwe",
+      "community": 6,
+      "x": -0.07526668404260188,
+      "y": -0.637980051559155,
+      "color": "#45f20c"
+    },
+    {
+      "id": "golf",
+      "label": "golf",
+      "community": 9,
+      "x": 0.39584776162179,
+      "y": 0.4196285944410351,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "greenbaypackers",
+      "label": "greenbaypackers",
+      "community": 1,
+      "x": -0.28351641500009667,
+      "y": 0.20232395216782834,
+      "color": "#0cf24f"
+    },
+    {
+      "id": "MLS",
+      "label": "MLS",
+      "community": 9,
+      "x": 0.5495931700345777,
+      "y": 0.6433528915088599,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "CFB",
+      "label": "CFB",
+      "community": 9,
+      "x": 0.2914712142876608,
+      "y": 0.4082371440494959,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "sailing",
+      "label": "sailing",
+      "community": 9,
+      "x": 0.6653148591262548,
+      "y": 0.10223975794844696,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "lakers",
+      "label": "lakers",
+      "community": 9,
+      "x": 0.45067987691094313,
+      "y": 0.537828212407252,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "sportsarefun",
+      "label": "sportsarefun",
+      "community": 5,
+      "x": 0.25957467155134994,
+      "y": 0.12189141348254605,
+      "color": "#f20c88"
+    },
+    {
+      "id": "formula1",
+      "label": "formula1",
+      "community": 9,
+      "x": 0.7552451368475438,
+      "y": 0.03245016167141637,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "worldcup",
+      "label": "worldcup",
+      "community": 9,
+      "x": 0.331835154737527,
+      "y": 0.6470101408625029,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "running",
+      "label": "running",
+      "community": 9,
+      "x": 0.4467382959966138,
+      "y": 0.4790742344240758,
+      "color": "#0cf29c"
+    },
+    {
+      "id": "trumpgret",
+      "label": "trumpgret",
+      "community": 5,
+      "x": -0.014418188335082387,
+      "y": -0.06202143273392401,
+      "color": "#f20c88"
+    },
+    {
+      "id": "MarchAgainstTrump",
+      "label": "MarchAgainstTrump",
+      "community": 5,
+      "x": 0.16099207322434123,
+      "y": -0.3608406100632114,
+      "color": "#f20c88"
+    },
+    {
+      "id": "TinyTrumps",
+      "label": "TinyTrumps",
+      "community": 5,
+      "x": 0.053750119471888506,
+      "y": -0.0735363470329716,
+      "color": "#f20c88"
+    },
+    {
+      "id": "politicaldiscussion",
+      "label": "politicaldiscussion",
+      "community": 11,
+      "x": 0.38745427247376335,
+      "y": -0.6648527569996207,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "completeanarchy",
+      "label": "completeanarchy",
+      "community": 7,
+      "x": -0.302956208351112,
+      "y": -0.7510398798138347,
+      "color": "#160cf2"
+    },
+    {
+      "id": "liberal",
+      "label": "liberal",
+      "community": 7,
+      "x": -0.17326159602269348,
+      "y": -0.16849460906215444,
+      "color": "#160cf2"
+    },
+    {
+      "id": "anarcho_capitalism",
+      "label": "anarcho_capitalism",
+      "community": 5,
+      "x": -0.1356504867192258,
+      "y": 0.6616280264098973,
+      "color": "#f20c88"
+    },
+    {
+      "id": "selfawarewolves",
+      "label": "selfawarewolves",
+      "community": 7,
+      "x": -0.048831757603099615,
+      "y": -0.3015919351306051,
+      "color": "#160cf2"
+    },
+    {
+      "id": "wikileaks",
+      "label": "wikileaks",
+      "community": 18,
+      "x": 0.5097634542178431,
+      "y": -0.7587620219662803,
+      "color": "#f20cb8"
+    },
+    {
+      "id": "communism",
+      "label": "communism",
+      "community": 5,
+      "x": -0.14101063604534264,
+      "y": -0.4672497848198359,
+      "color": "#f20c88"
+    },
+    {
+      "id": "MensRights",
+      "label": "MensRights",
+      "community": 7,
+      "x": 0.07133231634716693,
+      "y": -0.4149661605733316,
+      "color": "#160cf2"
+    },
+    {
+      "id": "democrats",
+      "label": "democrats",
+      "community": 7,
+      "x": 0.12844271932877413,
+      "y": -0.31938987971929433,
+      "color": "#160cf2"
+    },
+    {
+      "id": "feminism",
+      "label": "feminism",
+      "community": 5,
+      "x": 0.1096051133530584,
+      "y": -0.26522675980474625,
+      "color": "#f20c88"
+    },
+    {
+      "id": "impeach_trump",
+      "label": "impeach_trump",
+      "community": 7,
+      "x": -0.13286573237181828,
+      "y": -0.9719547253128307,
+      "color": "#160cf2"
+    },
+    {
+      "id": "political_revolution",
+      "label": "political_revolution",
+      "community": 7,
+      "x": 0.013806363634597306,
+      "y": -0.3669315395505367,
+      "color": "#160cf2"
+    },
+    {
+      "id": "socialism",
+      "label": "socialism",
+      "community": 5,
+      "x": 0.3584226292786646,
+      "y": -0.17376825490729594,
+      "color": "#f20c88"
+    },
+    {
+      "id": "republicans",
+      "label": "republicans",
+      "community": 7,
+      "x": 0.09270778014404679,
+      "y": -0.3346978380340534,
+      "color": "#160cf2"
+    },
+    {
+      "id": "conservative",
+      "label": "conservative",
+      "community": 11,
+      "x": 0.26186764305857335,
+      "y": -0.4149033644343032,
+      "color": "#c2f20c"
+    },
+    {
+      "id": "keep_track",
+      "label": "keep_track",
+      "community": 7,
+      "x": 0.05268988346456424,
+      "y": -0.3738654642610645,
+      "color": "#160cf2"
+    },
+    {
+      "id": "enlightenedcentrism",
+      "label": "enlightenedcentrism",
+      "community": 5,
+      "x": -0.02671750942833021,
+      "y": -0.09840961556832545,
+      "color": "#f20c88"
+    },
+    {
+      "id": "anarchism",
+      "label": "anarchism",
+      "community": 7,
+      "x": 0.12340212087981212,
+      "y": -0.4396345816576099,
+      "color": "#160cf2"
+    },
+    {
+      "id": "Libertarian",
+      "label": "Libertarian",
+      "community": 5,
+      "x": 0.053699256073587255,
+      "y": -0.12638763638859277,
+      "color": "#f20c88"
+    },
+    {
+      "id": "politicalhumor",
+      "label": "politicalhumor",
+      "community": 6,
+      "x": -0.2939687832372621,
+      "y": -0.8768210960364461,
+      "color": "#45f20c"
+    },
+    {
+      "id": "geopolitics",
+      "label": "geopolitics",
+      "community": 5,
+      "x": 0.21118114207964736,
+      "y": 0.032355086424585136,
+      "color": "#f20c88"
+    },
+    {
+      "id": "latestagecapitalism",
+      "label": "latestagecapitalism",
+      "community": 7,
+      "x": 0.057803713259090346,
+      "y": -0.3092097202090396,
+      "color": "#160cf2"
+    },
+    {
+      "id": "esist",
+      "label": "esist",
+      "community": 7,
+      "x": -0.011224276755627108,
+      "y": -0.41381903340693854,
+      "color": "#160cf2"
+    },
+    {
+      "id": "worldpolitics",
+      "label": "worldpolitics",
+      "community": 5,
+      "x": -0.3267724479339195,
+      "y": -0.5120656061675842,
+      "color": "#f20c88"
+    },
+    {
+      "id": "Catholicism",
+      "label": "Catholicism",
+      "community": 5,
+      "x": 0.0458583750411876,
+      "y": 0.023073873772347084,
+      "color": "#f20c88"
+    },
+    {
+      "id": "ChristianBooks",
+      "label": "ChristianBooks",
+      "community": 5,
+      "x": -0.11669743883759921,
+      "y": -0.026294035821372155,
+      "color": "#f20c88"
+    },
+    {
+      "id": "exmuslim",
+      "label": "exmuslim",
+      "community": 7,
+      "x": -0.261830524199199,
+      "y": -0.343658689350116,
+      "color": "#160cf2"
+    },
+    {
+      "id": "BibleStudy",
+      "label": "BibleStudy",
+      "community": 4,
+      "x": -0.18735076415306937,
+      "y": 0.2150338806681316,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "Pagan",
+      "label": "Pagan",
+      "community": 5,
+      "x": -0.2652593919937084,
+      "y": -0.008054324240332079,
+      "color": "#f20c88"
+    },
+    {
+      "id": "trueatheism",
+      "label": "trueatheism",
+      "community": 4,
+      "x": -0.6996498568138305,
+      "y": 0.677620709653052,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "Buddhism",
+      "label": "Buddhism",
+      "community": 5,
+      "x": -0.2812343585033304,
+      "y": -0.15634339621867133,
+      "color": "#f20c88"
+    },
+    {
+      "id": "Psychonaut",
+      "label": "Psychonaut",
+      "community": 19,
+      "x": 0.47375657428518764,
+      "y": 0.0745239266099283,
+      "color": "#75f20c"
+    },
+    {
+      "id": "Christianity",
+      "label": "Christianity",
+      "community": 5,
+      "x": -0.15507344363985892,
+      "y": 0.04841601567445078,
+      "color": "#f20c88"
+    },
+    {
+      "id": "Quakers",
+      "label": "Quakers",
+      "community": 5,
+      "x": 0.18345474645226015,
+      "y": 0.04376568649079362,
+      "color": "#f20c88"
+    },
+    {
+      "id": "Taoism",
+      "label": "Taoism",
+      "community": 5,
+      "x": 0.8631690651101754,
+      "y": -0.19877239930378332,
+      "color": "#f20c88"
+    },
+    {
+      "id": "Faith",
+      "label": "Faith",
+      "community": 4,
+      "x": -0.1449454789280626,
+      "y": 0.31686300772888004,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "Stoicism",
+      "label": "Stoicism",
+      "community": 4,
+      "x": -0.1638869949845415,
+      "y": 0.016819707188594067,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "Atheism",
+      "label": "Atheism",
+      "community": 5,
+      "x": -0.18519569641955588,
+      "y": -0.25189048912571294,
+      "color": "#f20c88"
+    },
+    {
+      "id": "philosophy",
+      "label": "philosophy",
+      "community": 4,
+      "x": -0.2553052600253464,
+      "y": 0.16121928732769525,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "Judaism",
+      "label": "Judaism",
+      "community": 4,
+      "x": -0.350331732711228,
+      "y": 0.2131966797508618,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "OrthodoxChristianity",
+      "label": "OrthodoxChristianity",
+      "community": 13,
+      "x": 0.6845717388573402,
+      "y": -0.8267057911030794,
+      "color": "#f20c3c"
+    },
+    {
+      "id": "Talmud",
+      "label": "Talmud",
+      "community": 5,
+      "x": -0.3086222190723696,
+      "y": -0.22949165513529088,
+      "color": "#f20c88"
+    },
+    {
+      "id": "Hinduism",
+      "label": "Hinduism",
+      "community": 5,
+      "x": -0.3925330133098378,
+      "y": 0.14379357499205203,
+      "color": "#f20c88"
+    },
+    {
+      "id": "Abrahamic",
+      "label": "Abrahamic",
+      "community": 5,
+      "x": 0.12426422312101401,
+      "y": -0.023781094627850916,
+      "color": "#f20c88"
+    },
+    {
+      "id": "occult",
+      "label": "occult",
+      "community": 7,
+      "x": -0.29224701929251296,
+      "y": -0.29239954926053563,
+      "color": "#160cf2"
+    },
+    {
+      "id": "Agnosticism",
+      "label": "Agnosticism",
+      "community": 7,
+      "x": -0.4017792490096019,
+      "y": -0.09619978270385603,
+      "color": "#160cf2"
+    },
+    {
+      "id": "dankchristianmemes",
+      "label": "dankchristianmemes",
+      "community": 5,
+      "x": -0.16814175252808092,
+      "y": -0.046916021119475584,
+      "color": "#f20c88"
+    },
+    {
+      "id": "ChristianApologetics",
+      "label": "ChristianApologetics",
+      "community": 4,
+      "x": -0.31256788019810977,
+      "y": 0.4081151766765676,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "PrayerRequests",
+      "label": "PrayerRequests",
+      "community": 4,
+      "x": -0.39529596302404596,
+      "y": 0.3378921942755682,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "TrueChristian",
+      "label": "TrueChristian",
+      "community": 4,
+      "x": -0.39388763036452695,
+      "y": 0.9816937078752626,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "LosingFaith",
+      "label": "LosingFaith",
+      "community": 4,
+      "x": 0.2744530240535939,
+      "y": 0.2698750544998185,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "Religion",
+      "label": "Religion",
+      "community": 7,
+      "x": 0.021322604283838267,
+      "y": -0.30336256307412723,
+      "color": "#160cf2"
+    },
+    {
+      "id": "Zen",
+      "label": "Zen",
+      "community": 19,
+      "x": 0.3420986104673071,
+      "y": 0.05601253025298948,
+      "color": "#75f20c"
+    },
+    {
+      "id": "exmormon",
+      "label": "exmormon",
+      "community": 4,
+      "x": -0.49550513726610124,
+      "y": 0.5004206322724142,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "askphilosophy",
+      "label": "askphilosophy",
+      "community": 4,
+      "x": -0.19532040877305445,
+      "y": -0.027784642456982124,
+      "color": "#0ccbf2"
+    },
+    {
+      "id": "TheologyClinic",
+      "label": "TheologyClinic",
+      "community": 4,
+      "x": -0.006473895471039602,
+      "y": 0.11123885662451732,
+      "color": "#0ccbf2"
+    }
+  ],
+  "edges": [
+    {
+      "source": "hiphopimages",
+      "target": "eminem",
+      "weight": 0.0045590388662637826
+    },
+    {
+      "source": "hiphopimages",
+      "target": "guitar",
+      "weight": 0.008181578207313734
+    },
+    {
+      "source": "guitarlessons",
+      "target": "spotify",
+      "weight": 0.008561068110381528
+    },
+    {
+      "source": "guitarlessons",
+      "target": "kanye",
+      "weight": 0.016497997930822336
+    },
+    {
+      "source": "guitarlessons",
+      "target": "vaporwave",
+      "weight": 0.00744983593779457
+    },
+    {
+      "source": "guitarlessons",
+      "target": "frankocean",
+      "weight": 0.019618229854787797
+    },
+    {
+      "source": "guitarlessons",
+      "target": "WeAreTheMusicMakers",
+      "weight": 0.005520864715589702
+    },
+    {
+      "source": "guitarlessons",
+      "target": "eminem",
+      "weight": 0.005006449959160029
+    },
+    {
+      "source": "guitarlessons",
+      "target": "vinyl",
+      "weight": 0.014129007933395256
+    },
+    {
+      "source": "guitarlessons",
+      "target": "edmproduction",
+      "weight": 0.00974117036746611
+    },
+    {
+      "source": "guitarlessons",
+      "target": "UKshooting",
+      "weight": 0.005267829510341783
+    },
+    {
+      "source": "spotify",
+      "target": "kanye",
+      "weight": 0.009487428928351775
+    },
+    {
+      "source": "spotify",
+      "target": "beatles",
+      "weight": 0.005366456859452036
+    },
+    {
+      "source": "spotify",
+      "target": "frankocean",
+      "weight": 0.0046652269114457
+    },
+    {
+      "source": "spotify",
+      "target": "KendrickLamar",
+      "weight": 0.00797465288340266
+    },
+    {
+      "source": "spotify",
+      "target": "vinyl",
+      "weight": 0.013563186248671578
+    },
+    {
+      "source": "spotify",
+      "target": "UKshooting",
+      "weight": 0.005616913953626422
+    },
+    {
+      "source": "spotify",
+      "target": "ufc",
+      "weight": 0.005112539942881266
+    },
+    {
+      "source": "spotify",
+      "target": "theocho",
+      "weight": 0.005259105809367775
+    },
+    {
+      "source": "spotify",
+      "target": "rugbyunion",
+      "weight": 0.005371232014408173
+    },
+    {
+      "source": "spotify",
+      "target": "greenbaypackers",
+      "weight": 0.005723832112451522
+    },
+    {
+      "source": "popheads",
+      "target": "bass",
+      "weight": 0.007076824220304314
+    },
+    {
+      "source": "popheads",
+      "target": "fakealbumcovers",
+      "weight": 0.007722206465139553
+    },
+    {
+      "source": "popheads",
+      "target": "electronicmusic",
+      "weight": 0.014246837151010359
+    },
+    {
+      "source": "popheads",
+      "target": "classicalmusic",
+      "weight": 0.01197893684425467
+    },
+    {
+      "source": "popheads",
+      "target": "HipHopHeads",
+      "weight": 0.012552434374195837
+    },
+    {
+      "source": "popheads",
+      "target": "ableton",
+      "weight": 0.005574456290717127
+    },
+    {
+      "source": "popheads",
+      "target": "pinkfloyd",
+      "weight": 0.00791324130647786
+    },
+    {
+      "source": "popheads",
+      "target": "outrun",
+      "weight": 0.007590883685328661
+    },
+    {
+      "source": "popheads",
+      "target": "jazz",
+      "weight": 0.00460874535028897
+    },
+    {
+      "source": "popheads",
+      "target": "deathgrips",
+      "weight": 0.008676551176775491
+    },
+    {
+      "source": "popheads",
+      "target": "vaporwave",
+      "weight": 0.004868154558805406
+    },
+    {
+      "source": "popheads",
+      "target": "brockhampton",
+      "weight": 0.012557795228760021
+    },
+    {
+      "source": "popheads",
+      "target": "Metalcore",
+      "weight": 0.012853250237141015
+    },
+    {
+      "source": "popheads",
+      "target": "drums",
+      "weight": 0.013983374403416569
+    },
+    {
+      "source": "popheads",
+      "target": "kpop",
+      "weight": 0.0072498276204058815
+    },
+    {
+      "source": "bass",
+      "target": "kanye",
+      "weight": 0.005291896882767468
+    },
+    {
+      "source": "bass",
+      "target": "fakealbumcovers",
+      "weight": 0.011326010858652556
+    },
+    {
+      "source": "bass",
+      "target": "classicalmusic",
+      "weight": 0.011775897618493097
+    },
+    {
+      "source": "bass",
+      "target": "HipHopHeads",
+      "weight": 0.007315829561396864
+    },
+    {
+      "source": "bass",
+      "target": "ableton",
+      "weight": 0.009609270147902024
+    },
+    {
+      "source": "bass",
+      "target": "pinkfloyd",
+      "weight": 0.005083911501949649
+    },
+    {
+      "source": "bass",
+      "target": "mashups",
+      "weight": 0.0054052814803727
+    },
+    {
+      "source": "bass",
+      "target": "outrun",
+      "weight": 0.027844023077976832
+    },
+    {
+      "source": "bass",
+      "target": "gorillaz",
+      "weight": 0.018150615004077268
+    },
+    {
+      "source": "bass",
+      "target": "Metalcore",
+      "weight": 0.00680510052237087
+    },
+    {
+      "source": "bass",
+      "target": "drums",
+      "weight": 0.013981293465209856
+    },
+    {
+      "source": "kanye",
+      "target": "ableton",
+      "weight": 0.009398454977971647
+    },
+    {
+      "source": "kanye",
+      "target": "mashups",
+      "weight": 0.006025579555767615
+    },
+    {
+      "source": "kanye",
+      "target": "gorillaz",
+      "weight": 0.011422714863263229
+    },
+    {
+      "source": "kanye",
+      "target": "frankocean",
+      "weight": 0.03134833537695299
+    },
+    {
+      "source": "kanye",
+      "target": "KendrickLamar",
+      "weight": 0.024485952978309047
+    },
+    {
+      "source": "kanye",
+      "target": "WeAreTheMusicMakers",
+      "weight": 0.0161453994051316
+    },
+    {
+      "source": "kanye",
+      "target": "vinyl",
+      "weight": 0.05051239668643076
+    },
+    {
+      "source": "kanye",
+      "target": "edmproduction",
+      "weight": 0.00843780666818364
+    },
+    {
+      "source": "Metal",
+      "target": "HipHopHeads",
+      "weight": 0.005463679908177427
+    },
+    {
+      "source": "Metal",
+      "target": "ableton",
+      "weight": 0.006521443523991774
+    },
+    {
+      "source": "Metal",
+      "target": "dubstep",
+      "weight": 0.013196394750384775
+    },
+    {
+      "source": "Metal",
+      "target": "jazz",
+      "weight": 0.014011819612529742
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "electronicmusic",
+      "weight": 0.013460566980118622
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "classicalmusic",
+      "weight": 0.06680424266657474
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "HipHopHeads",
+      "weight": 0.005809678022325755
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "ableton",
+      "weight": 0.0077867713614458555
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "pinkfloyd",
+      "weight": 0.012496372166585758
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "outrun",
+      "weight": 0.009198933565782086
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "deathgrips",
+      "weight": 0.004519845709962361
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "gorillaz",
+      "weight": 0.005301798202586401
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "piano",
+      "weight": 0.005188683446954347
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "Metalcore",
+      "weight": 0.023076236349939935
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "drums",
+      "weight": 0.007263015464244676
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "kpop",
+      "weight": 0.008272266897407768
+    },
+    {
+      "source": "fakealbumcovers",
+      "target": "greenbaypackers",
+      "weight": 0.004975015160384346
+    },
+    {
+      "source": "trap",
+      "target": "classicalmusic",
+      "weight": 0.005712513259779457
+    },
+    {
+      "source": "trap",
+      "target": "ableton",
+      "weight": 0.008352817573756674
+    },
+    {
+      "source": "trap",
+      "target": "pinkfloyd",
+      "weight": 0.005021218701626906
+    },
+    {
+      "source": "trap",
+      "target": "vaporwave",
+      "weight": 0.006833783903356284
+    },
+    {
+      "source": "trap",
+      "target": "eminem",
+      "weight": 0.004975153889115186
+    },
+    {
+      "source": "spop",
+      "target": "electronicmusic",
+      "weight": 0.004715719353766526
+    },
+    {
+      "source": "spop",
+      "target": "futurebeats",
+      "weight": 0.013631496087070018
+    },
+    {
+      "source": "spop",
+      "target": "gamemusic",
+      "weight": 0.016645141770823955
+    },
+    {
+      "source": "spop",
+      "target": "musictheory",
+      "weight": 0.011964634040736256
+    },
+    {
+      "source": "spop",
+      "target": "music",
+      "weight": 0.006445468603083065
+    },
+    {
+      "source": "spop",
+      "target": "piano",
+      "weight": 0.03608679487120561
+    },
+    {
+      "source": "spop",
+      "target": "kpop",
+      "weight": 0.021317980634736788
+    },
+    {
+      "source": "electronicmusic",
+      "target": "classicalmusic",
+      "weight": 0.012615941493273964
+    },
+    {
+      "source": "electronicmusic",
+      "target": "HipHopHeads",
+      "weight": 0.009553337928340268
+    },
+    {
+      "source": "electronicmusic",
+      "target": "pinkfloyd",
+      "weight": 0.005014092761071626
+    },
+    {
+      "source": "electronicmusic",
+      "target": "deathgrips",
+      "weight": 0.01555078216515565
+    },
+    {
+      "source": "electronicmusic",
+      "target": "brockhampton",
+      "weight": 0.014938304991182193
+    },
+    {
+      "source": "electronicmusic",
+      "target": "piano",
+      "weight": 0.005146397166101462
+    },
+    {
+      "source": "electronicmusic",
+      "target": "Metalcore",
+      "weight": 0.01053819608250445
+    },
+    {
+      "source": "electronicmusic",
+      "target": "kpop",
+      "weight": 0.01109878414024243
+    },
+    {
+      "source": "electronicmusic",
+      "target": "BayAreaGunMeetups",
+      "weight": 0.004809248806873011
+    },
+    {
+      "source": "electronicmusic",
+      "target": "trumpgret",
+      "weight": 0.006146312797751359
+    },
+    {
+      "source": "electronicmusic",
+      "target": "enlightenedcentrism",
+      "weight": 0.004760913421254506
+    },
+    {
+      "source": "futurebeats",
+      "target": "gamemusic",
+      "weight": 0.03449475534122735
+    },
+    {
+      "source": "futurebeats",
+      "target": "ableton",
+      "weight": 0.006746140747057694
+    },
+    {
+      "source": "futurebeats",
+      "target": "musictheory",
+      "weight": 0.013486349433697269
+    },
+    {
+      "source": "futurebeats",
+      "target": "music",
+      "weight": 0.024089229952601328
+    },
+    {
+      "source": "futurebeats",
+      "target": "piano",
+      "weight": 0.00542966508253807
+    },
+    {
+      "source": "futurebeats",
+      "target": "exmormon",
+      "weight": 0.004458764968893115
+    },
+    {
+      "source": "classicalmusic",
+      "target": "HipHopHeads",
+      "weight": 0.010862845236273155
+    },
+    {
+      "source": "classicalmusic",
+      "target": "ableton",
+      "weight": 0.009429640512748888
+    },
+    {
+      "source": "classicalmusic",
+      "target": "pinkfloyd",
+      "weight": 0.011288135478940668
+    },
+    {
+      "source": "classicalmusic",
+      "target": "outrun",
+      "weight": 0.008675394856611248
+    },
+    {
+      "source": "classicalmusic",
+      "target": "jazz",
+      "weight": 0.004555779217927704
+    },
+    {
+      "source": "classicalmusic",
+      "target": "deathgrips",
+      "weight": 0.005052055005450611
+    },
+    {
+      "source": "classicalmusic",
+      "target": "gorillaz",
+      "weight": 0.0075425681975841265
+    },
+    {
+      "source": "classicalmusic",
+      "target": "piano",
+      "weight": 0.004761948171234996
+    },
+    {
+      "source": "classicalmusic",
+      "target": "Metalcore",
+      "weight": 0.030256083666236392
+    },
+    {
+      "source": "classicalmusic",
+      "target": "drums",
+      "weight": 0.008572267694739408
+    },
+    {
+      "source": "classicalmusic",
+      "target": "kpop",
+      "weight": 0.013839015493845823
+    },
+    {
+      "source": "classicalmusic",
+      "target": "BusinessIntelligence",
+      "weight": 0.004784467832696988
+    },
+    {
+      "source": "HipHopHeads",
+      "target": "ableton",
+      "weight": 0.00901373026875192
+    },
+    {
+      "source": "HipHopHeads",
+      "target": "musictheory",
+      "weight": 0.006872679610129709
+    },
+    {
+      "source": "HipHopHeads",
+      "target": "outrun",
+      "weight": 0.009850102840655134
+    },
+    {
+      "source": "HipHopHeads",
+      "target": "jazz",
+      "weight": 0.014970546379331037
+    },
+    {
+      "source": "HipHopHeads",
+      "target": "gorillaz",
+      "weight": 0.007100625456342617
+    },
+    {
+      "source": "HipHopHeads",
+      "target": "brockhampton",
+      "weight": 0.005009094465335975
+    },
+    {
+      "source": "HipHopHeads",
+      "target": "piano",
+      "weight": 0.0049899287966793104
+    },
+    {
+      "source": "HipHopHeads",
+      "target": "Metalcore",
+      "weight": 0.009166584462597174
+    },
+    {
+      "source": "HipHopHeads",
+      "target": "drums",
+      "weight": 0.008730144414703435
+    },
+    {
+      "source": "HipHopHeads",
+      "target": "kpop",
+      "weight": 0.00931774778180581
+    },
+    {
+      "source": "HipHopHeads",
+      "target": "skeptic",
+      "weight": 0.004435569921453957
+    },
+    {
+      "source": "HipHopHeads",
+      "target": "dankchristianmemes",
+      "weight": 0.004260125750661406
+    },
+    {
+      "source": "LetsTalkMusic",
+      "target": "donaldglover",
+      "weight": 0.10235478693270726
+    },
+    {
+      "source": "gamemusic",
+      "target": "musictheory",
+      "weight": 0.007417477057410836
+    },
+    {
+      "source": "gamemusic",
+      "target": "music",
+      "weight": 0.015057767994894269
+    },
+    {
+      "source": "gamemusic",
+      "target": "vaporwave",
+      "weight": 0.006063167719427874
+    },
+    {
+      "source": "gamemusic",
+      "target": "eminem",
+      "weight": 0.005432772128097144
+    },
+    {
+      "source": "gamemusic",
+      "target": "piano",
+      "weight": 0.004893878295945851
+    },
+    {
+      "source": "gamemusic",
+      "target": "UKshooting",
+      "weight": 0.004287307009878824
+    },
+    {
+      "source": "donaldglover",
+      "target": "funkopop",
+      "weight": 0.005331463436280714
+    },
+    {
+      "source": "ableton",
+      "target": "musictheory",
+      "weight": 0.004300393367160273
+    },
+    {
+      "source": "ableton",
+      "target": "mashups",
+      "weight": 0.004708654895654531
+    },
+    {
+      "source": "ableton",
+      "target": "outrun",
+      "weight": 0.007783486723934642
+    },
+    {
+      "source": "ableton",
+      "target": "jazz",
+      "weight": 0.005268566439824198
+    },
+    {
+      "source": "ableton",
+      "target": "gorillaz",
+      "weight": 0.013796295739186752
+    },
+    {
+      "source": "ableton",
+      "target": "funkopop",
+      "weight": 0.005816744414533796
+    },
+    {
+      "source": "ableton",
+      "target": "KendrickLamar",
+      "weight": 0.0070473368398381465
+    },
+    {
+      "source": "ableton",
+      "target": "WeAreTheMusicMakers",
+      "weight": 0.004976076209689999
+    },
+    {
+      "source": "ableton",
+      "target": "vinyl",
+      "weight": 0.0064862295939671424
+    },
+    {
+      "source": "ableton",
+      "target": "Metalcore",
+      "weight": 0.0070819753696878835
+    },
+    {
+      "source": "ableton",
+      "target": "drums",
+      "weight": 0.009160851896075206
+    },
+    {
+      "source": "ableton",
+      "target": "kpop",
+      "weight": 0.006295660032744916
+    },
+    {
+      "source": "ableton",
+      "target": "BusinessIntelligence",
+      "weight": 0.005621868307080038
+    },
+    {
+      "source": "pinkfloyd",
+      "target": "gorillaz",
+      "weight": 0.004528149376013482
+    },
+    {
+      "source": "pinkfloyd",
+      "target": "Metalcore",
+      "weight": 0.01158401037009676
+    },
+    {
+      "source": "pinkfloyd",
+      "target": "drums",
+      "weight": 0.005665335196750173
+    },
+    {
+      "source": "pinkfloyd",
+      "target": "kpop",
+      "weight": 0.005283424699281321
+    },
+    {
+      "source": "pinkfloyd",
+      "target": "greenbaypackers",
+      "weight": 0.005319886029946294
+    },
+    {
+      "source": "musictheory",
+      "target": "music",
+      "weight": 0.008138059886382151
+    },
+    {
+      "source": "musictheory",
+      "target": "jazz",
+      "weight": 0.006606665164840012
+    },
+    {
+      "source": "musictheory",
+      "target": "piano",
+      "weight": 0.007975467682824193
+    },
+    {
+      "source": "musictheory",
+      "target": "kpop",
+      "weight": 0.006262715150289946
+    },
+    {
+      "source": "mashups",
+      "target": "outrun",
+      "weight": 0.004841411999945336
+    },
+    {
+      "source": "mashups",
+      "target": "gorillaz",
+      "weight": 0.008776407097829331
+    },
+    {
+      "source": "mashups",
+      "target": "WeAreTheMusicMakers",
+      "weight": 0.008552910191336536
+    },
+    {
+      "source": "mashups",
+      "target": "vinyl",
+      "weight": 0.004951902610770257
+    },
+    {
+      "source": "mashups",
+      "target": "drums",
+      "weight": 0.0054039017372009375
+    },
+    {
+      "source": "beatles",
+      "target": "funkopop",
+      "weight": 0.005492184689546835
+    },
+    {
+      "source": "beatles",
+      "target": "listentothis",
+      "weight": 0.007413124946723838
+    },
+    {
+      "source": "beatles",
+      "target": "guitar",
+      "weight": 0.006714933363175571
+    },
+    {
+      "source": "beatles",
+      "target": "todayilearned",
+      "weight": 0.009016514170424986
+    },
+    {
+      "source": "beatles",
+      "target": "MachineLearning",
+      "weight": 0.006804943540817582
+    },
+    {
+      "source": "beatles",
+      "target": "aliens",
+      "weight": 0.009105695390377581
+    },
+    {
+      "source": "beatles",
+      "target": "UKshooting",
+      "weight": 0.015748519708717802
+    },
+    {
+      "source": "beatles",
+      "target": "liberal",
+      "weight": 0.004904212369635039
+    },
+    {
+      "source": "beatles",
+      "target": "selfawarewolves",
+      "weight": 0.0068499578043898866
+    },
+    {
+      "source": "beatles",
+      "target": "esist",
+      "weight": 0.0047049130964872095
+    },
+    {
+      "source": "beatles",
+      "target": "ChristianBooks",
+      "weight": 0.017766726362967535
+    },
+    {
+      "source": "beatles",
+      "target": "BibleStudy",
+      "weight": 0.005119183126811567
+    },
+    {
+      "source": "beatles",
+      "target": "Judaism",
+      "weight": 0.008988197624019917
+    },
+    {
+      "source": "beatles",
+      "target": "ChristianApologetics",
+      "weight": 0.006403645644246398
+    },
+    {
+      "source": "music",
+      "target": "eminem",
+      "weight": 0.008181143737859376
+    },
+    {
+      "source": "outrun",
+      "target": "jazz",
+      "weight": 0.006659566229461855
+    },
+    {
+      "source": "outrun",
+      "target": "gorillaz",
+      "weight": 0.013832780596718065
+    },
+    {
+      "source": "outrun",
+      "target": "Metalcore",
+      "weight": 0.006824925886963584
+    },
+    {
+      "source": "outrun",
+      "target": "drums",
+      "weight": 0.011614713085264633
+    },
+    {
+      "source": "outrun",
+      "target": "theocho",
+      "weight": 0.004375739409150355
+    },
+    {
+      "source": "dubstep",
+      "target": "trumpgret",
+      "weight": 0.004376265197045468
+    },
+    {
+      "source": "radiohead",
+      "target": "vaporwave",
+      "weight": 0.010482848367219183
+    },
+    {
+      "source": "radiohead",
+      "target": "eminem",
+      "weight": 0.008218816126224047
+    },
+    {
+      "source": "radiohead",
+      "target": "guitar",
+      "weight": 0.006807395041680065
+    },
+    {
+      "source": "jazz",
+      "target": "gorillaz",
+      "weight": 0.012492746791070902
+    },
+    {
+      "source": "jazz",
+      "target": "WeAreTheMusicMakers",
+      "weight": 0.004265894648560421
+    },
+    {
+      "source": "jazz",
+      "target": "vinyl",
+      "weight": 0.004366914419209825
+    },
+    {
+      "source": "jazz",
+      "target": "drums",
+      "weight": 0.010637300846054102
+    },
+    {
+      "source": "jazz",
+      "target": "kpop",
+      "weight": 0.004429181681092739
+    },
+    {
+      "source": "jazz",
+      "target": "baseball",
+      "weight": 0.004906180475647104
+    },
+    {
+      "source": "deathgrips",
+      "target": "brockhampton",
+      "weight": 0.030156087423276516
+    },
+    {
+      "source": "deathgrips",
+      "target": "Metalcore",
+      "weight": 0.004966865378357215
+    },
+    {
+      "source": "gorillaz",
+      "target": "frankocean",
+      "weight": 0.007918230655386254
+    },
+    {
+      "source": "gorillaz",
+      "target": "WeAreTheMusicMakers",
+      "weight": 0.010482833320881287
+    },
+    {
+      "source": "gorillaz",
+      "target": "vinyl",
+      "weight": 0.008250276158709994
+    },
+    {
+      "source": "gorillaz",
+      "target": "Metalcore",
+      "weight": 0.005721367225497808
+    },
+    {
+      "source": "gorillaz",
+      "target": "drums",
+      "weight": 0.00740960066041763
+    },
+    {
+      "source": "vaporwave",
+      "target": "eminem",
+      "weight": 0.09600307214746386
+    },
+    {
+      "source": "vaporwave",
+      "target": "guitar",
+      "weight": 0.01987910507078558
+    },
+    {
+      "source": "funkopop",
+      "target": "eminem",
+      "weight": 0.013152339866038509
+    },
+    {
+      "source": "funkopop",
+      "target": "kpop",
+      "weight": 0.017487769669123215
+    },
+    {
+      "source": "funkopop",
+      "target": "aliens",
+      "weight": 0.005486829071803495
+    },
+    {
+      "source": "frankocean",
+      "target": "KendrickLamar",
+      "weight": 0.0048907086796929795
+    },
+    {
+      "source": "frankocean",
+      "target": "WeAreTheMusicMakers",
+      "weight": 0.010432747480032898
+    },
+    {
+      "source": "frankocean",
+      "target": "vinyl",
+      "weight": 0.027162374784948207
+    },
+    {
+      "source": "frankocean",
+      "target": "edmproduction",
+      "weight": 0.015843252078254766
+    },
+    {
+      "source": "brockhampton",
+      "target": "BayAreaGunMeetups",
+      "weight": 0.004314113628605664
+    },
+    {
+      "source": "brockhampton",
+      "target": "trumpgret",
+      "weight": 0.005513520483398168
+    },
+    {
+      "source": "brockhampton",
+      "target": "enlightenedcentrism",
+      "weight": 0.004270754602234915
+    },
+    {
+      "source": "listentothis",
+      "target": "eminem",
+      "weight": 0.004564925297206473
+    },
+    {
+      "source": "listentothis",
+      "target": "aliens",
+      "weight": 0.008331633173500616
+    },
+    {
+      "source": "listentothis",
+      "target": "BayAreaGunMeetups",
+      "weight": 0.01797212886723974
+    },
+    {
+      "source": "listentothis",
+      "target": "fantasypl",
+      "weight": 0.005354612224456479
+    },
+    {
+      "source": "listentothis",
+      "target": "trumpgret",
+      "weight": 0.022968727569612934
+    },
+    {
+      "source": "listentothis",
+      "target": "TinyTrumps",
+      "weight": 0.01467418177209373
+    },
+    {
+      "source": "listentothis",
+      "target": "selfawarewolves",
+      "weight": 0.006267652632048753
+    },
+    {
+      "source": "listentothis",
+      "target": "enlightenedcentrism",
+      "weight": 0.017791499872137212
+    },
+    {
+      "source": "listentothis",
+      "target": "Libertarian",
+      "weight": 0.011887445878280325
+    },
+    {
+      "source": "listentothis",
+      "target": "Catholicism",
+      "weight": 0.00550633097572249
+    },
+    {
+      "source": "listentothis",
+      "target": "ChristianBooks",
+      "weight": 0.01625640221905888
+    },
+    {
+      "source": "listentothis",
+      "target": "Abrahamic",
+      "weight": 0.0066121588539584
+    },
+    {
+      "source": "KendrickLamar",
+      "target": "vinyl",
+      "weight": 0.019217193450653817
+    },
+    {
+      "source": "KendrickLamar",
+      "target": "ufc",
+      "weight": 0.007269746538125432
+    },
+    {
+      "source": "KendrickLamar",
+      "target": "rugbyunion",
+      "weight": 0.005289573895212358
+    },
+    {
+      "source": "WeAreTheMusicMakers",
+      "target": "vinyl",
+      "weight": 0.013305138005882136
+    },
+    {
+      "source": "WeAreTheMusicMakers",
+      "target": "edmproduction",
+      "weight": 0.010614027782045104
+    },
+    {
+      "source": "WeAreTheMusicMakers",
+      "target": "drums",
+      "weight": 0.005487279805128461
+    },
+    {
+      "source": "WeAreTheMusicMakers",
+      "target": "BayAreaGunMeetups",
+      "weight": 0.0045177239151841094
+    },
+    {
+      "source": "WeAreTheMusicMakers",
+      "target": "trumpgret",
+      "weight": 0.005773738359496083
+    },
+    {
+      "source": "WeAreTheMusicMakers",
+      "target": "enlightenedcentrism",
+      "weight": 0.0044723185023374514
+    },
+    {
+      "source": "eminem",
+      "target": "guitar",
+      "weight": 0.015585717126424082
+    },
+    {
+      "source": "eminem",
+      "target": "kpop",
+      "weight": 0.012509976855287699
+    },
+    {
+      "source": "eminem",
+      "target": "BayAreaGunMeetups",
+      "weight": 0.0070555626111216945
+    },
+    {
+      "source": "eminem",
+      "target": "trumpgret",
+      "weight": 0.0077289815960028055
+    },
+    {
+      "source": "eminem",
+      "target": "TinyTrumps",
+      "weight": 0.005760842748502363
+    },
+    {
+      "source": "eminem",
+      "target": "enlightenedcentrism",
+      "weight": 0.005986843400892497
+    },
+    {
+      "source": "vinyl",
+      "target": "edmproduction",
+      "weight": 0.006137547118438489
+    },
+    {
+      "source": "vinyl",
+      "target": "ufc",
+      "weight": 0.004982353129771413
+    },
+    {
+      "source": "vinyl",
+      "target": "rugbyunion",
+      "weight": 0.00969707933447844
+    },
+    {
+      "source": "vinyl",
+      "target": "longboarding",
+      "weight": 0.005019054103759689
+    },
+    {
+      "source": "piano",
+      "target": "Metalcore",
+      "weight": 0.0046131806309410986
+    },
+    {
+      "source": "piano",
+      "target": "kpop",
+      "weight": 0.016775645259391403
+    },
+    {
+      "source": "Metalcore",
+      "target": "drums",
+      "weight": 0.004929866156587244
+    },
+    {
+      "source": "Metalcore",
+      "target": "kpop",
+      "weight": 0.011293461436678988
+    },
+    {
+      "source": "drums",
+      "target": "CFB",
+      "weight": 0.00446899225844471
+    },
+    {
+      "source": "guitar",
+      "target": "todayilearned",
+      "weight": 0.004333466567368921
+    },
+    {
+      "source": "guitar",
+      "target": "aliens",
+      "weight": 0.004644266816246243
+    },
+    {
+      "source": "guitar",
+      "target": "UKshooting",
+      "weight": 0.007028324999736183
+    },
+    {
+      "source": "Analytics",
+      "target": "SpacePorn",
+      "weight": 0.006444311271642092
+    },
+    {
+      "source": "Analytics",
+      "target": "chemicalreactiongifs",
+      "weight": 0.008407734623877634
+    },
+    {
+      "source": "Analytics",
+      "target": "explainlikeimfive",
+      "weight": 0.027437718815663627
+    },
+    {
+      "source": "Analytics",
+      "target": "geology",
+      "weight": 0.0067320553706114415
+    },
+    {
+      "source": "Analytics",
+      "target": "BusinessIntelligence",
+      "weight": 0.026541480265316553
+    },
+    {
+      "source": "Analytics",
+      "target": "chemistry",
+      "weight": 0.01644181629036478
+    },
+    {
+      "source": "Analytics",
+      "target": "skeptic",
+      "weight": 0.00796288667021129
+    },
+    {
+      "source": "Analytics",
+      "target": "Space",
+      "weight": 0.006839441181541129
+    },
+    {
+      "source": "Analytics",
+      "target": "airsoft",
+      "weight": 0.006140552789967044
+    },
+    {
+      "source": "Analytics",
+      "target": "gundeals",
+      "weight": 0.0048673821595335105
+    },
+    {
+      "source": "Analytics",
+      "target": "army",
+      "weight": 0.00763844292515674
+    },
+    {
+      "source": "Analytics",
+      "target": "guns",
+      "weight": 0.004510103087029807
+    },
+    {
+      "source": "Analytics",
+      "target": "military",
+      "weight": 0.0045351204141053595
+    },
+    {
+      "source": "Analytics",
+      "target": "chicagobulls",
+      "weight": 0.009961209336541283
+    },
+    {
+      "source": "Analytics",
+      "target": "LiverpoolFC",
+      "weight": 0.007194846400739866
+    },
+    {
+      "source": "Analytics",
+      "target": "CollegeBasketball",
+      "weight": 0.004646812338541704
+    },
+    {
+      "source": "Analytics",
+      "target": "baseball",
+      "weight": 0.010825708706281445
+    },
+    {
+      "source": "Analytics",
+      "target": "nba",
+      "weight": 0.006522039236887251
+    },
+    {
+      "source": "Analytics",
+      "target": "nfl",
+      "weight": 0.005167096943292713
+    },
+    {
+      "source": "Analytics",
+      "target": "theocho",
+      "weight": 0.005256130539311547
+    },
+    {
+      "source": "Analytics",
+      "target": "tennis",
+      "weight": 0.004639761791379264
+    },
+    {
+      "source": "Analytics",
+      "target": "soccer",
+      "weight": 0.005997609382841403
+    },
+    {
+      "source": "Analytics",
+      "target": "longboarding",
+      "weight": 0.005031922519599823
+    },
+    {
+      "source": "Analytics",
+      "target": "golf",
+      "weight": 0.00819003274215881
+    },
+    {
+      "source": "Analytics",
+      "target": "CFB",
+      "weight": 0.005664512605422944
+    },
+    {
+      "source": "Analytics",
+      "target": "running",
+      "weight": 0.004646286789811193
+    },
+    {
+      "source": "Analytics",
+      "target": "political_revolution",
+      "weight": 0.006419046491463071
+    },
+    {
+      "source": "Analytics",
+      "target": "keep_track",
+      "weight": 0.00422221325007647
+    },
+    {
+      "source": "Analytics",
+      "target": "latestagecapitalism",
+      "weight": 0.004948439843641278
+    },
+    {
+      "source": "Analytics",
+      "target": "Religion",
+      "weight": 0.01576168181978529
+    },
+    {
+      "source": "nasa",
+      "target": "geology",
+      "weight": 0.010808722355782912
+    },
+    {
+      "source": "nasa",
+      "target": "Awwducational",
+      "weight": 0.015634804987328478
+    },
+    {
+      "source": "nasa",
+      "target": "chemistry",
+      "weight": 0.004332528478542104
+    },
+    {
+      "source": "nasa",
+      "target": "astrophotography",
+      "weight": 0.0077146006023693725
+    },
+    {
+      "source": "nasa",
+      "target": "aliens",
+      "weight": 0.009872481295984873
+    },
+    {
+      "source": "nasa",
+      "target": "BayAreaGunMeetups",
+      "weight": 0.007453559924999299
+    },
+    {
+      "source": "nasa",
+      "target": "trumpgret",
+      "weight": 0.009525793444156804
+    },
+    {
+      "source": "nasa",
+      "target": "TinyTrumps",
+      "weight": 0.006085806194501846
+    },
+    {
+      "source": "nasa",
+      "target": "enlightenedcentrism",
+      "weight": 0.0073786478737262184
+    },
+    {
+      "source": "nasa",
+      "target": "Libertarian",
+      "weight": 0.0049300664859163465
+    },
+    {
+      "source": "medicine",
+      "target": "SpacePorn",
+      "weight": 0.01218984972375264
+    },
+    {
+      "source": "medicine",
+      "target": "Awwducational",
+      "weight": 0.004538815097618847
+    },
+    {
+      "source": "medicine",
+      "target": "astronomy",
+      "weight": 0.005557224112786786
+    },
+    {
+      "source": "medicine",
+      "target": "aliens",
+      "weight": 0.006909109619670294
+    },
+    {
+      "source": "medicine",
+      "target": "physics",
+      "weight": 0.00729174468907314
+    },
+    {
+      "source": "rockets",
+      "target": "skeptic",
+      "weight": 0.00443850673507864
+    },
+    {
+      "source": "rockets",
+      "target": "feminism",
+      "weight": 0.004533009484501526
+    },
+    {
+      "source": "rockets",
+      "target": "esist",
+      "weight": 0.004806105600044524
+    },
+    {
+      "source": "SpacePorn",
+      "target": "chemicalreactiongifs",
+      "weight": 0.005269183152295802
+    },
+    {
+      "source": "SpacePorn",
+      "target": "explainlikeimfive",
+      "weight": 0.012122056295598472
+    },
+    {
+      "source": "SpacePorn",
+      "target": "BusinessIntelligence",
+      "weight": 0.010880922632875467
+    },
+    {
+      "source": "SpacePorn",
+      "target": "Awwducational",
+      "weight": 0.004549359771647948
+    },
+    {
+      "source": "SpacePorn",
+      "target": "chemistry",
+      "weight": 0.004515810192064013
+    },
+    {
+      "source": "SpacePorn",
+      "target": "skeptic",
+      "weight": 0.006147069440219852
+    },
+    {
+      "source": "SpacePorn",
+      "target": "Space",
+      "weight": 0.005226152301032628
+    },
+    {
+      "source": "SpacePorn",
+      "target": "physics",
+      "weight": 0.005648781021754199
+    },
+    {
+      "source": "SpacePorn",
+      "target": "enlightenedcentrism",
+      "weight": 0.004984136467029256
+    },
+    {
+      "source": "SpacePorn",
+      "target": "Religion",
+      "weight": 0.00833059548971286
+    },
+    {
+      "source": "chemicalreactiongifs",
+      "target": "explainlikeimfive",
+      "weight": 0.016548783835508694
+    },
+    {
+      "source": "chemicalreactiongifs",
+      "target": "BusinessIntelligence",
+      "weight": 0.009146446154108484
+    },
+    {
+      "source": "chemicalreactiongifs",
+      "target": "Awwducational",
+      "weight": 0.004620762149560816
+    },
+    {
+      "source": "chemicalreactiongifs",
+      "target": "chemistry",
+      "weight": 0.012070765186298451
+    },
+    {
+      "source": "chemicalreactiongifs",
+      "target": "physics",
+      "weight": 0.005462498298651232
+    },
+    {
+      "source": "chemicalreactiongifs",
+      "target": "MilitaryPorn",
+      "weight": 0.004264045971355574
+    },
+    {
+      "source": "chemicalreactiongifs",
+      "target": "Libertarian",
+      "weight": 0.004516106057560285
+    },
+    {
+      "source": "explainlikeimfive",
+      "target": "BusinessIntelligence",
+      "weight": 0.035297225777915185
+    },
+    {
+      "source": "explainlikeimfive",
+      "target": "chemistry",
+      "weight": 0.016389626468614197
+    },
+    {
+      "source": "explainlikeimfive",
+      "target": "physics",
+      "weight": 0.007018186824476931
+    },
+    {
+      "source": "explainlikeimfive",
+      "target": "chicagobulls",
+      "weight": 0.0046842091846001225
+    },
+    {
+      "source": "explainlikeimfive",
+      "target": "LiverpoolFC",
+      "weight": 0.004232118913547264
+    },
+    {
+      "source": "explainlikeimfive",
+      "target": "Religion",
+      "weight": 0.006571380996208854
+    },
+    {
+      "source": "geology",
+      "target": "BusinessIntelligence",
+      "weight": 0.004536763879337395
+    },
+    {
+      "source": "geology",
+      "target": "Awwducational",
+      "weight": 0.01653686503505096
+    },
+    {
+      "source": "geology",
+      "target": "chemistry",
+      "weight": 0.016149233125478356
+    },
+    {
+      "source": "geology",
+      "target": "astrophotography",
+      "weight": 0.013166048841594655
+    },
+    {
+      "source": "geology",
+      "target": "Space",
+      "weight": 0.005424568150564096
+    },
+    {
+      "source": "geology",
+      "target": "army",
+      "weight": 0.004460428127604699
+    },
+    {
+      "source": "BusinessIntelligence",
+      "target": "chemistry",
+      "weight": 0.013765255197698771
+    },
+    {
+      "source": "BusinessIntelligence",
+      "target": "skeptic",
+      "weight": 0.005234053293877438
+    },
+    {
+      "source": "BusinessIntelligence",
+      "target": "Space",
+      "weight": 0.004634340534325258
+    },
+    {
+      "source": "BusinessIntelligence",
+      "target": "political_revolution",
+      "weight": 0.004571737762532277
+    },
+    {
+      "source": "BusinessIntelligence",
+      "target": "Religion",
+      "weight": 0.012578249488425966
+    },
+    {
+      "source": "BusinessIntelligence",
+      "target": "askphilosophy",
+      "weight": 0.004582207696488372
+    },
+    {
+      "source": "Awwducational",
+      "target": "chemistry",
+      "weight": 0.014109324503689926
+    },
+    {
+      "source": "Awwducational",
+      "target": "astrophotography",
+      "weight": 0.010026538167317172
+    },
+    {
+      "source": "Awwducational",
+      "target": "astronomy",
+      "weight": 0.006329330710531038
+    },
+    {
+      "source": "Awwducational",
+      "target": "aliens",
+      "weight": 0.005488153593022983
+    },
+    {
+      "source": "Awwducational",
+      "target": "physics",
+      "weight": 0.007103511942783213
+    },
+    {
+      "source": "chemistry",
+      "target": "skeptic",
+      "weight": 0.005149797837875945
+    },
+    {
+      "source": "chemistry",
+      "target": "astrophotography",
+      "weight": 0.013968124637158425
+    },
+    {
+      "source": "chemistry",
+      "target": "spacex",
+      "weight": 0.015624439222570558
+    },
+    {
+      "source": "chemistry",
+      "target": "Space",
+      "weight": 0.0067404837197775755
+    },
+    {
+      "source": "chemistry",
+      "target": "physics",
+      "weight": 0.0069409527321250605
+    },
+    {
+      "source": "chemistry",
+      "target": "airsoft",
+      "weight": 0.004319920847100272
+    },
+    {
+      "source": "chemistry",
+      "target": "gundeals",
+      "weight": 0.005434806361625267
+    },
+    {
+      "source": "chemistry",
+      "target": "army",
+      "weight": 0.005605884625945384
+    },
+    {
+      "source": "chemistry",
+      "target": "Pagan",
+      "weight": 0.005387887915943825
+    },
+    {
+      "source": "chemistry",
+      "target": "Religion",
+      "weight": 0.006879797274947051
+    },
+    {
+      "source": "todayilearned",
+      "target": "MachineLearning",
+      "weight": 0.021330407208829866
+    },
+    {
+      "source": "todayilearned",
+      "target": "aliens",
+      "weight": 0.0062361151325134746
+    },
+    {
+      "source": "todayilearned",
+      "target": "science",
+      "weight": 0.005040487404544469
+    },
+    {
+      "source": "todayilearned",
+      "target": "UKshooting",
+      "weight": 0.009437322535767442
+    },
+    {
+      "source": "todayilearned",
+      "target": "trumpgret",
+      "weight": 0.004297945750510665
+    },
+    {
+      "source": "todayilearned",
+      "target": "liberal",
+      "weight": 0.005457875697329698
+    },
+    {
+      "source": "todayilearned",
+      "target": "Judaism",
+      "weight": 0.005386190039571707
+    },
+    {
+      "source": "todayilearned",
+      "target": "ChristianApologetics",
+      "weight": 0.0056084983950546565
+    },
+    {
+      "source": "skeptic",
+      "target": "Space",
+      "weight": 0.008787354333367945
+    },
+    {
+      "source": "skeptic",
+      "target": "physics",
+      "weight": 0.005494218788597062
+    },
+    {
+      "source": "skeptic",
+      "target": "gunpolitics",
+      "weight": 0.006155530304219948
+    },
+    {
+      "source": "skeptic",
+      "target": "MensRights",
+      "weight": 0.007536426770009625
+    },
+    {
+      "source": "skeptic",
+      "target": "democrats",
+      "weight": 0.00907679214926657
+    },
+    {
+      "source": "skeptic",
+      "target": "political_revolution",
+      "weight": 0.010621074157556311
+    },
+    {
+      "source": "skeptic",
+      "target": "republicans",
+      "weight": 0.0073885076911305
+    },
+    {
+      "source": "skeptic",
+      "target": "keep_track",
+      "weight": 0.012084827356964674
+    },
+    {
+      "source": "skeptic",
+      "target": "anarchism",
+      "weight": 0.008311196553364479
+    },
+    {
+      "source": "skeptic",
+      "target": "latestagecapitalism",
+      "weight": 0.00526574165707051
+    },
+    {
+      "source": "skeptic",
+      "target": "occult",
+      "weight": 0.006243019794788291
+    },
+    {
+      "source": "skeptic",
+      "target": "Religion",
+      "weight": 0.03359981583068753
+    },
+    {
+      "source": "cogsci",
+      "target": "torontoraptors",
+      "weight": 0.00493740940393352
+    },
+    {
+      "source": "cogsci",
+      "target": "MLS",
+      "weight": 0.00428225980801116
+    },
+    {
+      "source": "MachineLearning",
+      "target": "aliens",
+      "weight": 0.004706520789374209
+    },
+    {
+      "source": "MachineLearning",
+      "target": "UKshooting",
+      "weight": 0.007122536028727372
+    },
+    {
+      "source": "astrophotography",
+      "target": "spacex",
+      "weight": 0.012725203969669736
+    },
+    {
+      "source": "astrophotography",
+      "target": "physics",
+      "weight": 0.0066562228516740705
+    },
+    {
+      "source": "astrophotography",
+      "target": "BayAreaGunMeetups",
+      "weight": 0.006389026431910645
+    },
+    {
+      "source": "astrophotography",
+      "target": "trumpgret",
+      "weight": 0.008165299093593145
+    },
+    {
+      "source": "astrophotography",
+      "target": "TinyTrumps",
+      "weight": 0.005216618237111911
+    },
+    {
+      "source": "astrophotography",
+      "target": "enlightenedcentrism",
+      "weight": 0.006324813481257754
+    },
+    {
+      "source": "astrophotography",
+      "target": "Libertarian",
+      "weight": 0.004225943764663479
+    },
+    {
+      "source": "astrophotography",
+      "target": "esist",
+      "weight": 0.004591187657610448
+    },
+    {
+      "source": "spacex",
+      "target": "BayAreaGunMeetups",
+      "weight": 0.007631142441593834
+    },
+    {
+      "source": "spacex",
+      "target": "trumpgret",
+      "weight": 0.009752747327857317
+    },
+    {
+      "source": "spacex",
+      "target": "TinyTrumps",
+      "weight": 0.006230801712133825
+    },
+    {
+      "source": "spacex",
+      "target": "enlightenedcentrism",
+      "weight": 0.007554445596112055
+    },
+    {
+      "source": "spacex",
+      "target": "Libertarian",
+      "weight": 0.005047526279941882
+    },
+    {
+      "source": "aliens",
+      "target": "Space",
+      "weight": 0.00502935713478075
+    },
+    {
+      "source": "aliens",
+      "target": "BayAreaGunMeetups",
+      "weight": 0.022075539284417394
+    },
+    {
+      "source": "aliens",
+      "target": "skiing",
+      "weight": 0.005216857811762987
+    },
+    {
+      "source": "aliens",
+      "target": "fantasypl",
+      "weight": 0.006577181445058567
+    },
+    {
+      "source": "aliens",
+      "target": "trumpgret",
+      "weight": 0.02821296528205601
+    },
+    {
+      "source": "aliens",
+      "target": "TinyTrumps",
+      "weight": 0.018024602347862503
+    },
+    {
+      "source": "aliens",
+      "target": "liberal",
+      "weight": 0.006299267276411815
+    },
+    {
+      "source": "aliens",
+      "target": "feminism",
+      "weight": 0.00498739476708061
+    },
+    {
+      "source": "aliens",
+      "target": "enlightenedcentrism",
+      "weight": 0.021853668936906195
+    },
+    {
+      "source": "aliens",
+      "target": "Libertarian",
+      "weight": 0.0146015967510513
+    },
+    {
+      "source": "aliens",
+      "target": "Catholicism",
+      "weight": 0.006763540739413548
+    },
+    {
+      "source": "aliens",
+      "target": "Judaism",
+      "weight": 0.010101862039619217
+    },
+    {
+      "source": "aliens",
+      "target": "Abrahamic",
+      "weight": 0.008121852097412953
+    },
+    {
+      "source": "aliens",
+      "target": "dankchristianmemes",
+      "weight": 0.00639477017824261
+    },
+    {
+      "source": "aliens",
+      "target": "PrayerRequests",
+      "weight": 0.004325975192229971
+    },
+    {
+      "source": "Space",
+      "target": "biology",
+      "weight": 0.004555404476102988
+    },
+    {
+      "source": "Space",
+      "target": "MilitaryPorn",
+      "weight": 0.004690593431380388
+    },
+    {
+      "source": "Space",
+      "target": "liberal",
+      "weight": 0.004792400559195243
+    },
+    {
+      "source": "Space",
+      "target": "political_revolution",
+      "weight": 0.005664202735444444
+    },
+    {
+      "source": "Space",
+      "target": "politicalhumor",
+      "weight": 0.0049079791546396195
+    },
+    {
+      "source": "Space",
+      "target": "Atheism",
+      "weight": 0.005224942803517308
+    },
+    {
+      "source": "Space",
+      "target": "Religion",
+      "weight": 0.0049219619402468585
+    },
+    {
+      "source": "biology",
+      "target": "trumpgret",
+      "weight": 0.0063277199716833266
+    },
+    {
+      "source": "biology",
+      "target": "feminism",
+      "weight": 0.004474373701426828
+    },
+    {
+      "source": "biology",
+      "target": "enlightenedcentrism",
+      "weight": 0.004901430813958718
+    },
+    {
+      "source": "physics",
+      "target": "science",
+      "weight": 0.004803519050939346
+    },
+    {
+      "source": "physics",
+      "target": "occult",
+      "weight": 0.005169108096067268
+    },
+    {
+      "source": "physics",
+      "target": "dankchristianmemes",
+      "weight": 0.00450581048729444
+    },
+    {
+      "source": "militarygfys",
+      "target": "ar15",
+      "weight": 0.005058941726317339
+    },
+    {
+      "source": "militarygfys",
+      "target": "ccw",
+      "weight": 0.014376679860450573
+    },
+    {
+      "source": "militarygfys",
+      "target": "airsoft",
+      "weight": 0.006357822845503559
+    },
+    {
+      "source": "militarygfys",
+      "target": "warshipporn",
+      "weight": 0.004766979968423388
+    },
+    {
+      "source": "militarygfys",
+      "target": "guns",
+      "weight": 0.0339533608929008
+    },
+    {
+      "source": "militarygfys",
+      "target": "military",
+      "weight": 0.0049393190820931476
+    },
+    {
+      "source": "ar15",
+      "target": "GunsAreCool",
+      "weight": 0.034721757645924466
+    },
+    {
+      "source": "ar15",
+      "target": "ccw",
+      "weight": 0.004514420961214573
+    },
+    {
+      "source": "ar15",
+      "target": "firearms",
+      "weight": 0.024669140496288235
+    },
+    {
+      "source": "ar15",
+      "target": "pdxgunnuts",
+      "weight": 0.0048309265059598115
+    },
+    {
+      "source": "ar15",
+      "target": "airsoft",
+      "weight": 0.009969925843926001
+    },
+    {
+      "source": "ar15",
+      "target": "justbootthings",
+      "weight": 0.03954331135341827
+    },
+    {
+      "source": "ar15",
+      "target": "gunporn",
+      "weight": 0.006842014254514841
+    },
+    {
+      "source": "ar15",
+      "target": "gundeals",
+      "weight": 0.005126449200904271
+    },
+    {
+      "source": "ar15",
+      "target": "combatfootage",
+      "weight": 0.026241019424676184
+    },
+    {
+      "source": "ar15",
+      "target": "army",
+      "weight": 0.006394813466664923
+    },
+    {
+      "source": "ar15",
+      "target": "warshipporn",
+      "weight": 0.04238554655423833
+    },
+    {
+      "source": "ar15",
+      "target": "guns",
+      "weight": 0.011815121099037257
+    },
+    {
+      "source": "ar15",
+      "target": "military",
+      "weight": 0.05607616399098655
+    },
+    {
+      "source": "ar15",
+      "target": "olympics",
+      "weight": 0.004214074859946455
+    },
+    {
+      "source": "ar15",
+      "target": "politicaldiscussion",
+      "weight": 0.010665549441568127
+    },
+    {
+      "source": "ar15",
+      "target": "conservative",
+      "weight": 0.009750807747831684
+    },
+    {
+      "source": "MilitaryPorn",
+      "target": "Illinoisccw",
+      "weight": 0.005302373024798148
+    },
+    {
+      "source": "MilitaryPorn",
+      "target": "gundeals",
+      "weight": 0.005173767393272318
+    },
+    {
+      "source": "MilitaryPorn",
+      "target": "army",
+      "weight": 0.006324218577311162
+    },
+    {
+      "source": "MilitaryPorn",
+      "target": "trumpgret",
+      "weight": 0.006980898471528258
+    },
+    {
+      "source": "MilitaryPorn",
+      "target": "enlightenedcentrism",
+      "weight": 0.005407380704358751
+    },
+    {
+      "source": "MilitaryPorn",
+      "target": "ChristianBooks",
+      "weight": 0.005764287198883955
+    },
+    {
+      "source": "MilitaryPorn",
+      "target": "Christianity",
+      "weight": 0.006372659274182271
+    },
+    {
+      "source": "MilitaryPorn",
+      "target": "Atheism",
+      "weight": 0.004274909800354809
+    },
+    {
+      "source": "PhillyGuns",
+      "target": "military",
+      "weight": 0.004744868345534501
+    },
+    {
+      "source": "Illinoisccw",
+      "target": "GunsAreCool",
+      "weight": 0.0064907189238108615
+    },
+    {
+      "source": "Illinoisccw",
+      "target": "firearms",
+      "weight": 0.005014396943726219
+    },
+    {
+      "source": "Illinoisccw",
+      "target": "SanAntonioGuns",
+      "weight": 0.004669431789004382
+    },
+    {
+      "source": "Illinoisccw",
+      "target": "pdxgunnuts",
+      "weight": 0.010336227882434039
+    },
+    {
+      "source": "Illinoisccw",
+      "target": "Argmas",
+      "weight": 0.004576958636509081
+    },
+    {
+      "source": "Illinoisccw",
+      "target": "trumpgret",
+      "weight": 0.008439494725697222
+    },
+    {
+      "source": "Illinoisccw",
+      "target": "enlightenedcentrism",
+      "weight": 0.006537204504606134
+    },
+    {
+      "source": "Illinoisccw",
+      "target": "Libertarian",
+      "weight": 0.004367853486341326
+    },
+    {
+      "source": "Illinoisccw",
+      "target": "ChristianBooks",
+      "weight": 0.006968683416725756
+    },
+    {
+      "source": "Illinoisccw",
+      "target": "Pagan",
+      "weight": 0.0045327357768368435
+    },
+    {
+      "source": "Illinoisccw",
+      "target": "Christianity",
+      "weight": 0.007704169392017071
+    },
+    {
+      "source": "Illinoisccw",
+      "target": "Atheism",
+      "weight": 0.0051681139412170195
+    },
+    {
+      "source": "GunsAreCool",
+      "target": "firearms",
+      "weight": 0.012249078930834763
+    },
+    {
+      "source": "GunsAreCool",
+      "target": "justbootthings",
+      "weight": 0.027009267939596904
+    },
+    {
+      "source": "GunsAreCool",
+      "target": "gunpolitics",
+      "weight": 0.006105040509388813
+    },
+    {
+      "source": "GunsAreCool",
+      "target": "combatfootage",
+      "weight": 0.0062862876535027985
+    },
+    {
+      "source": "GunsAreCool",
+      "target": "warshipporn",
+      "weight": 0.01845336545697988
+    },
+    {
+      "source": "GunsAreCool",
+      "target": "guns",
+      "weight": 0.004749494096204486
+    },
+    {
+      "source": "GunsAreCool",
+      "target": "military",
+      "weight": 0.02139298001150441
+    },
+    {
+      "source": "GunsAreCool",
+      "target": "politicaldiscussion",
+      "weight": 0.010159086078524811
+    },
+    {
+      "source": "GunsAreCool",
+      "target": "conservative",
+      "weight": 0.010890729959874662
+    },
+    {
+      "source": "ccw",
+      "target": "airsoft",
+      "weight": 0.005461317059506554
+    },
+    {
+      "source": "ccw",
+      "target": "army",
+      "weight": 0.004480808182026222
+    },
+    {
+      "source": "ccw",
+      "target": "BayAreaGunMeetups",
+      "weight": 0.0065122055430380296
+    },
+    {
+      "source": "ccw",
+      "target": "guns",
+      "weight": 0.013942505151969828
+    },
+    {
+      "source": "ccw",
+      "target": "military",
+      "weight": 0.004697594880726446
+    },
+    {
+      "source": "ccw",
+      "target": "trumpgret",
+      "weight": 0.00832272437507492
+    },
+    {
+      "source": "ccw",
+      "target": "TinyTrumps",
+      "weight": 0.005317193560189137
+    },
+    {
+      "source": "ccw",
+      "target": "keep_track",
+      "weight": 0.004694247120452161
+    },
+    {
+      "source": "ccw",
+      "target": "enlightenedcentrism",
+      "weight": 0.006446754579947939
+    },
+    {
+      "source": "ccw",
+      "target": "Libertarian",
+      "weight": 0.004922764672404274
+    },
+    {
+      "source": "ccw",
+      "target": "Atheism",
+      "weight": 0.005096606997189388
+    },
+    {
+      "source": "ccw",
+      "target": "askphilosophy",
+      "weight": 0.005261368459295993
+    },
+    {
+      "source": "firearms",
+      "target": "pdxgunnuts",
+      "weight": 0.004312251798677469
+    },
+    {
+      "source": "firearms",
+      "target": "justbootthings",
+      "weight": 0.01899283067529834
+    },
+    {
+      "source": "firearms",
+      "target": "combatfootage",
+      "weight": 0.015540684213070675
+    },
+    {
+      "source": "firearms",
+      "target": "warshipporn",
+      "weight": 0.035368374485201665
+    },
+    {
+      "source": "firearms",
+      "target": "military",
+      "weight": 0.0262035433836952
+    },
+    {
+      "source": "SanAntonioGuns",
+      "target": "AUSguns",
+      "weight": 0.02491020830224699
+    },
+    {
+      "source": "SanAntonioGuns",
+      "target": "trumpgret",
+      "weight": 0.0061475926130276455
+    },
+    {
+      "source": "SanAntonioGuns",
+      "target": "enlightenedcentrism",
+      "weight": 0.004761904761904762
+    },
+    {
+      "source": "SanAntonioGuns",
+      "target": "ChristianBooks",
+      "weight": 0.005076207532276439
+    },
+    {
+      "source": "SanAntonioGuns",
+      "target": "Christianity",
+      "weight": 0.005611958580845616
+    },
+    {
+      "source": "UKshooting",
+      "target": "combatfootage",
+      "weight": 0.004855382441907423
+    },
+    {
+      "source": "UKshooting",
+      "target": "Argmas",
+      "weight": 0.03528374160166421
+    },
+    {
+      "source": "UKshooting",
+      "target": "worldcup",
+      "weight": 0.005072549003849982
+    },
+    {
+      "source": "UKshooting",
+      "target": "BibleStudy",
+      "weight": 0.005358099746113093
+    },
+    {
+      "source": "UKshooting",
+      "target": "ChristianApologetics",
+      "weight": 0.006702509218888863
+    },
+    {
+      "source": "pdxgunnuts",
+      "target": "trumpgret",
+      "weight": 0.0045360921162651445
+    },
+    {
+      "source": "airsoft",
+      "target": "justbootthings",
+      "weight": 0.004714752473830314
+    },
+    {
+      "source": "airsoft",
+      "target": "gunporn",
+      "weight": 0.006417823171166561
+    },
+    {
+      "source": "airsoft",
+      "target": "gundeals",
+      "weight": 0.018584331280403966
+    },
+    {
+      "source": "airsoft",
+      "target": "combatfootage",
+      "weight": 0.007957828869827701
+    },
+    {
+      "source": "airsoft",
+      "target": "army",
+      "weight": 0.01742530097259085
+    },
+    {
+      "source": "airsoft",
+      "target": "warshipporn",
+      "weight": 0.007445685107051186
+    },
+    {
+      "source": "airsoft",
+      "target": "guns",
+      "weight": 0.023651474742103787
+    },
+    {
+      "source": "airsoft",
+      "target": "military",
+      "weight": 0.007315561067003059
+    },
+    {
+      "source": "justbootthings",
+      "target": "combatfootage",
+      "weight": 0.015507933251473224
+    },
+    {
+      "source": "justbootthings",
+      "target": "warshipporn",
+      "weight": 0.02846510688402185
+    },
+    {
+      "source": "justbootthings",
+      "target": "guns",
+      "weight": 0.006534131596396795
+    },
+    {
+      "source": "justbootthings",
+      "target": "military",
+      "weight": 0.033455644857686165
+    },
+    {
+      "source": "justbootthings",
+      "target": "politicaldiscussion",
+      "weight": 0.00470668892684124
+    },
+    {
+      "source": "justbootthings",
+      "target": "conservative",
+      "weight": 0.005425439150255835
+    },
+    {
+      "source": "gunporn",
+      "target": "combatfootage",
+      "weight": 0.005580543525318385
+    },
+    {
+      "source": "gunporn",
+      "target": "army",
+      "weight": 0.004959332392502162
+    },
+    {
+      "source": "gunporn",
+      "target": "warshipporn",
+      "weight": 0.005417546589686981
+    },
+    {
+      "source": "gunporn",
+      "target": "military",
+      "weight": 0.005199984931356928
+    },
+    {
+      "source": "SwitzerlandGuns",
+      "target": "BayAreaGunMeetups",
+      "weight": 0.03523442817211266
+    },
+    {
+      "source": "gundeals",
+      "target": "army",
+      "weight": 0.007625949691854365
+    },
+    {
+      "source": "gundeals",
+      "target": "BayAreaGunMeetups",
+      "weight": 0.005011539827702197
+    },
+    {
+      "source": "gundeals",
+      "target": "guns",
+      "weight": 0.012473170580782988
+    },
+    {
+      "source": "gundeals",
+      "target": "trumpgret",
+      "weight": 0.006404844626758777
+    },
+    {
+      "source": "gundeals",
+      "target": "enlightenedcentrism",
+      "weight": 0.00496117131489656
+    },
+    {
+      "source": "gunpolitics",
+      "target": "trumpgret",
+      "weight": 0.005080332853991251
+    },
+    {
+      "source": "gunpolitics",
+      "target": "democrats",
+      "weight": 0.008839385085477562
+    },
+    {
+      "source": "gunpolitics",
+      "target": "political_revolution",
+      "weight": 0.007038473038461275
+    },
+    {
+      "source": "gunpolitics",
+      "target": "keep_track",
+      "weight": 0.009082931016002002
+    },
+    {
+      "source": "gunpolitics",
+      "target": "anarchism",
+      "weight": 0.012545411611792725
+    },
+    {
+      "source": "gunpolitics",
+      "target": "Libertarian",
+      "weight": 0.010517288197604432
+    },
+    {
+      "source": "combatfootage",
+      "target": "warshipporn",
+      "weight": 0.032837787176706046
+    },
+    {
+      "source": "combatfootage",
+      "target": "military",
+      "weight": 0.03201994347363519
+    },
+    {
+      "source": "Argmas",
+      "target": "trumpgret",
+      "weight": 0.006025846050518227
+    },
+    {
+      "source": "Argmas",
+      "target": "enlightenedcentrism",
+      "weight": 0.004667600280093366
+    },
+    {
+      "source": "Argmas",
+      "target": "ChristianBooks",
+      "weight": 0.004975678616887767
+    },
+    {
+      "source": "Argmas",
+      "target": "Christianity",
+      "weight": 0.005500819683203746
+    },
+    {
+      "source": "army",
+      "target": "warshipporn",
+      "weight": 0.0048248064626516055
+    },
+    {
+      "source": "army",
+      "target": "guns",
+      "weight": 0.014636864989182284
+    },
+    {
+      "source": "army",
+      "target": "military",
+      "weight": 0.006728986950951398
+    },
+    {
+      "source": "army",
+      "target": "conservative",
+      "weight": 0.004303757854610139
+    },
+    {
+      "source": "army",
+      "target": "Religion",
+      "weight": 0.004249098939477584
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "minnesotavikings",
+      "weight": 0.007848026822466853
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "sixers",
+      "weight": 0.004670348352324429
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "fantasypl",
+      "weight": 0.014187608845979143
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "sportsarefun",
+      "weight": 0.006504761602091372
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "trumpgret",
+      "weight": 0.06085806194501846
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "TinyTrumps",
+      "weight": 0.045360921162651446
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "democrats",
+      "weight": 0.004412012793161435
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "feminism",
+      "weight": 0.010758287072798382
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "socialism",
+      "weight": 0.00434774389975791
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "republicans",
+      "weight": 0.006017984538950991
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "keep_track",
+      "weight": 0.004533574163189493
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "enlightenedcentrism",
+      "weight": 0.04714045207910317
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "Libertarian",
+      "weight": 0.031497039417435604
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "geopolitics",
+      "weight": 0.007347778569623425
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "latestagecapitalism",
+      "weight": 0.00743869737795753
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "Catholicism",
+      "weight": 0.014589603651080285
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "Quakers",
+      "weight": 0.006499813133058598
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "Abrahamic",
+      "weight": 0.017519611040921222
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "dankchristianmemes",
+      "weight": 0.0074276086303597735
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "Zen",
+      "weight": 0.005883370913485065
+    },
+    {
+      "source": "BayAreaGunMeetups",
+      "target": "askphilosophy",
+      "weight": 0.005386161339169992
+    },
+    {
+      "source": "warshipporn",
+      "target": "guns",
+      "weight": 0.006695332772715503
+    },
+    {
+      "source": "warshipporn",
+      "target": "military",
+      "weight": 0.04078953917410296
+    },
+    {
+      "source": "guns",
+      "target": "military",
+      "weight": 0.010059319194509168
+    },
+    {
+      "source": "guns",
+      "target": "democrats",
+      "weight": 0.004919809065059916
+    },
+    {
+      "source": "guns",
+      "target": "conservative",
+      "weight": 0.005557511704047822
+    },
+    {
+      "source": "guns",
+      "target": "keep_track",
+      "weight": 0.0046509325076691315
+    },
+    {
+      "source": "guns",
+      "target": "latestagecapitalism",
+      "weight": 0.004910549385221715
+    },
+    {
+      "source": "guns",
+      "target": "Religion",
+      "weight": 0.00449503253525788
+    },
+    {
+      "source": "military",
+      "target": "olympics",
+      "weight": 0.005220691054120708
+    },
+    {
+      "source": "military",
+      "target": "politicaldiscussion",
+      "weight": 0.00532396854607146
+    },
+    {
+      "source": "military",
+      "target": "conservative",
+      "weight": 0.005518098030853474
+    },
+    {
+      "source": "chicagobulls",
+      "target": "chelseafc",
+      "weight": 0.00612531887942199
+    },
+    {
+      "source": "chicagobulls",
+      "target": "fantasybball",
+      "weight": 0.004855233961916298
+    },
+    {
+      "source": "chicagobulls",
+      "target": "LiverpoolFC",
+      "weight": 0.005872815359225809
+    },
+    {
+      "source": "chicagobulls",
+      "target": "CollegeBasketball",
+      "weight": 0.040787112639422765
+    },
+    {
+      "source": "chicagobulls",
+      "target": "baseball",
+      "weight": 0.024961257268642373
+    },
+    {
+      "source": "chicagobulls",
+      "target": "nba",
+      "weight": 0.006393926031165429
+    },
+    {
+      "source": "chicagobulls",
+      "target": "fantasyfootball",
+      "weight": 0.0075354395981028
+    },
+    {
+      "source": "chicagobulls",
+      "target": "Nascar",
+      "weight": 0.007230704697209875
+    },
+    {
+      "source": "chicagobulls",
+      "target": "theocho",
+      "weight": 0.011021678725146852
+    },
+    {
+      "source": "chicagobulls",
+      "target": "tennis",
+      "weight": 0.010472816552811673
+    },
+    {
+      "source": "chicagobulls",
+      "target": "soccer",
+      "weight": 0.005238317573641057
+    },
+    {
+      "source": "chicagobulls",
+      "target": "longboarding",
+      "weight": 0.004480207075348325
+    },
+    {
+      "source": "chicagobulls",
+      "target": "fishing",
+      "weight": 0.0062668282513052495
+    },
+    {
+      "source": "chicagobulls",
+      "target": "golf",
+      "weight": 0.008571073020554239
+    },
+    {
+      "source": "chicagobulls",
+      "target": "CFB",
+      "weight": 0.007202251484527641
+    },
+    {
+      "source": "chicagobulls",
+      "target": "sportsarefun",
+      "weight": 0.008019264268629206
+    },
+    {
+      "source": "chicagobulls",
+      "target": "running",
+      "weight": 0.014066561923144835
+    },
+    {
+      "source": "chicagobulls",
+      "target": "conservative",
+      "weight": 0.005028133604817604
+    },
+    {
+      "source": "chelseafc",
+      "target": "losangelesrams",
+      "weight": 0.013933277328386718
+    },
+    {
+      "source": "chelseafc",
+      "target": "baseball",
+      "weight": 0.004935404313034042
+    },
+    {
+      "source": "chelseafc",
+      "target": "Nascar",
+      "weight": 0.005005617904193582
+    },
+    {
+      "source": "chelseafc",
+      "target": "theocho",
+      "weight": 0.00712626063676276
+    },
+    {
+      "source": "chelseafc",
+      "target": "fishing",
+      "weight": 0.008493718820396881
+    },
+    {
+      "source": "chelseafc",
+      "target": "running",
+      "weight": 0.010868857200621859
+    },
+    {
+      "source": "discgolf",
+      "target": "soccer",
+      "weight": 0.03237625090165571
+    },
+    {
+      "source": "discgolf",
+      "target": "formula1",
+      "weight": 0.01552554582414689
+    },
+    {
+      "source": "gunners",
+      "target": "LiverpoolFC",
+      "weight": 0.0044673180420821326
+    },
+    {
+      "source": "gunners",
+      "target": "Cricket",
+      "weight": 0.005935776382058023
+    },
+    {
+      "source": "gunners",
+      "target": "soccer",
+      "weight": 0.006119140132297378
+    },
+    {
+      "source": "ufc",
+      "target": "nba",
+      "weight": 0.04982737187757312
+    },
+    {
+      "source": "ufc",
+      "target": "theocho",
+      "weight": 0.007235540187109985
+    },
+    {
+      "source": "ufc",
+      "target": "rugbyunion",
+      "weight": 0.007594002244923518
+    },
+    {
+      "source": "ufc",
+      "target": "nhl",
+      "weight": 0.004959574121260581
+    },
+    {
+      "source": "ufc",
+      "target": "longboarding",
+      "weight": 0.0049246331650628075
+    },
+    {
+      "source": "ufc",
+      "target": "CFB",
+      "weight": 0.0052427462582424105
+    },
+    {
+      "source": "minnesotavikings",
+      "target": "soccer",
+      "weight": 0.00859651545103219
+    },
+    {
+      "source": "minnesotavikings",
+      "target": "sportsarefun",
+      "weight": 0.007197985637302141
+    },
+    {
+      "source": "minnesotavikings",
+      "target": "trumpgret",
+      "weight": 0.010029929752664934
+    },
+    {
+      "source": "minnesotavikings",
+      "target": "TinyTrumps",
+      "weight": 0.00640788706757327
+    },
+    {
+      "source": "minnesotavikings",
+      "target": "enlightenedcentrism",
+      "weight": 0.0077691501791403135
+    },
+    {
+      "source": "minnesotavikings",
+      "target": "Libertarian",
+      "weight": 0.0051909818137029365
+    },
+    {
+      "source": "fantasybball",
+      "target": "sixers",
+      "weight": 0.043185896450553644
+    },
+    {
+      "source": "fantasybball",
+      "target": "baseball",
+      "weight": 0.008032198017511467
+    },
+    {
+      "source": "fantasybball",
+      "target": "theocho",
+      "weight": 0.00469779157425025
+    },
+    {
+      "source": "fantasybball",
+      "target": "tennis",
+      "weight": 0.004275782607766759
+    },
+    {
+      "source": "fantasybball",
+      "target": "golf",
+      "weight": 0.006348098715185012
+    },
+    {
+      "source": "fantasybball",
+      "target": "CFB",
+      "weight": 0.004559938564929409
+    },
+    {
+      "source": "fantasybball",
+      "target": "running",
+      "weight": 0.008723511359717549
+    },
+    {
+      "source": "skiing",
+      "target": "greenbaypackers",
+      "weight": 0.005011717132448238
+    },
+    {
+      "source": "skiing",
+      "target": "Judaism",
+      "weight": 0.004505848110000227
+    },
+    {
+      "source": "losangelesrams",
+      "target": "warriors",
+      "weight": 0.006864374785096785
+    },
+    {
+      "source": "losangelesrams",
+      "target": "MMA",
+      "weight": 0.005379975465417579
+    },
+    {
+      "source": "losangelesrams",
+      "target": "torontoraptors",
+      "weight": 0.008055706812387169
+    },
+    {
+      "source": "losangelesrams",
+      "target": "bicycling",
+      "weight": 0.005639073222119957
+    },
+    {
+      "source": "losangelesrams",
+      "target": "MLS",
+      "weight": 0.007454913793214174
+    },
+    {
+      "source": "LiverpoolFC",
+      "target": "Cricket",
+      "weight": 0.005274598737481918
+    },
+    {
+      "source": "LiverpoolFC",
+      "target": "baseball",
+      "weight": 0.0055558136576551904
+    },
+    {
+      "source": "LiverpoolFC",
+      "target": "nba",
+      "weight": 0.004608761265108036
+    },
+    {
+      "source": "LiverpoolFC",
+      "target": "fantasyfootball",
+      "weight": 0.011633091806352558
+    },
+    {
+      "source": "LiverpoolFC",
+      "target": "leafs",
+      "weight": 0.005369385609686006
+    },
+    {
+      "source": "LiverpoolFC",
+      "target": "Bundesliga",
+      "weight": 0.006940373128571161
+    },
+    {
+      "source": "LiverpoolFC",
+      "target": "soccer",
+      "weight": 0.011741012737771417
+    },
+    {
+      "source": "LiverpoolFC",
+      "target": "golf",
+      "weight": 0.005450093042161888
+    },
+    {
+      "source": "LiverpoolFC",
+      "target": "CFB",
+      "weight": 0.005617846054234404
+    },
+    {
+      "source": "Cricket",
+      "target": "leafs",
+      "weight": 0.004644183560092943
+    },
+    {
+      "source": "Cricket",
+      "target": "Bundesliga",
+      "weight": 0.007591637878723451
+    },
+    {
+      "source": "Cricket",
+      "target": "soccer",
+      "weight": 0.00916451952463105
+    },
+    {
+      "source": "Cricket",
+      "target": "Quakers",
+      "weight": 0.004460732919914127
+    },
+    {
+      "source": "warriors",
+      "target": "sixers",
+      "weight": 0.0056149193878131795
+    },
+    {
+      "source": "warriors",
+      "target": "MMA",
+      "weight": 0.006332051124458457
+    },
+    {
+      "source": "warriors",
+      "target": "torontoraptors",
+      "weight": 0.00458502090344481
+    },
+    {
+      "source": "warriors",
+      "target": "MLS",
+      "weight": 0.006064682599881047
+    },
+    {
+      "source": "warriors",
+      "target": "running",
+      "weight": 0.00443157672335477
+    },
+    {
+      "source": "sixers",
+      "target": "baseball",
+      "weight": 0.006509060036624579
+    },
+    {
+      "source": "sixers",
+      "target": "theocho",
+      "weight": 0.004276635493332037
+    },
+    {
+      "source": "sixers",
+      "target": "trumpgret",
+      "weight": 0.0059687953359420735
+    },
+    {
+      "source": "sixers",
+      "target": "enlightenedcentrism",
+      "weight": 0.0046234089866048315
+    },
+    {
+      "source": "CollegeBasketball",
+      "target": "baseball",
+      "weight": 0.02125468988430066
+    },
+    {
+      "source": "CollegeBasketball",
+      "target": "fantasyfootball",
+      "weight": 0.004639248893815353
+    },
+    {
+      "source": "CollegeBasketball",
+      "target": "theocho",
+      "weight": 0.010002753960874189
+    },
+    {
+      "source": "CollegeBasketball",
+      "target": "tennis",
+      "weight": 0.006700571186427073
+    },
+    {
+      "source": "CollegeBasketball",
+      "target": "golf",
+      "weight": 0.004473147656964402
+    },
+    {
+      "source": "CollegeBasketball",
+      "target": "sportsarefun",
+      "weight": 0.0044266500337039535
+    },
+    {
+      "source": "CollegeBasketball",
+      "target": "running",
+      "weight": 0.009206424270318838
+    },
+    {
+      "source": "olympics",
+      "target": "tennis",
+      "weight": 0.005024139287983881
+    },
+    {
+      "source": "baseball",
+      "target": "nba",
+      "weight": 0.009097328277207507
+    },
+    {
+      "source": "baseball",
+      "target": "MMA",
+      "weight": 0.004294013628416479
+    },
+    {
+      "source": "baseball",
+      "target": "fantasyfootball",
+      "weight": 0.005923044476339005
+    },
+    {
+      "source": "baseball",
+      "target": "Nascar",
+      "weight": 0.006969984869964323
+    },
+    {
+      "source": "baseball",
+      "target": "theocho",
+      "weight": 0.03598064830014311
+    },
+    {
+      "source": "baseball",
+      "target": "tennis",
+      "weight": 0.008968712078168621
+    },
+    {
+      "source": "baseball",
+      "target": "bicycling",
+      "weight": 0.004563760256166687
+    },
+    {
+      "source": "baseball",
+      "target": "soccer",
+      "weight": 0.006506485854930067
+    },
+    {
+      "source": "baseball",
+      "target": "longboarding",
+      "weight": 0.0055292305535021204
+    },
+    {
+      "source": "baseball",
+      "target": "fishing",
+      "weight": 0.00516662400162813
+    },
+    {
+      "source": "baseball",
+      "target": "golf",
+      "weight": 0.0181005971779837
+    },
+    {
+      "source": "baseball",
+      "target": "CFB",
+      "weight": 0.009358028865997637
+    },
+    {
+      "source": "baseball",
+      "target": "sportsarefun",
+      "weight": 0.007325393238722644
+    },
+    {
+      "source": "baseball",
+      "target": "running",
+      "weight": 0.013352386142928647
+    },
+    {
+      "source": "nba",
+      "target": "fantasyfootball",
+      "weight": 0.005263497320050312
+    },
+    {
+      "source": "nba",
+      "target": "Nascar",
+      "weight": 0.004437000646639466
+    },
+    {
+      "source": "nba",
+      "target": "theocho",
+      "weight": 0.0049996523542223965
+    },
+    {
+      "source": "nba",
+      "target": "rugbyunion",
+      "weight": 0.005679788542104344
+    },
+    {
+      "source": "nba",
+      "target": "nhl",
+      "weight": 0.004709119914856558
+    },
+    {
+      "source": "nba",
+      "target": "soccer",
+      "weight": 0.00836069626190864
+    },
+    {
+      "source": "nba",
+      "target": "longboarding",
+      "weight": 0.010399180220681562
+    },
+    {
+      "source": "nba",
+      "target": "golf",
+      "weight": 0.00679408124697474
+    },
+    {
+      "source": "nba",
+      "target": "CFB",
+      "weight": 0.005045997460283192
+    },
+    {
+      "source": "MMA",
+      "target": "Nascar",
+      "weight": 0.03539532224804155
+    },
+    {
+      "source": "MMA",
+      "target": "theocho",
+      "weight": 0.005078780007368199
+    },
+    {
+      "source": "MMA",
+      "target": "torontoraptors",
+      "weight": 0.0042207015429161585
+    },
+    {
+      "source": "MMA",
+      "target": "MLS",
+      "weight": 0.004717104097809269
+    },
+    {
+      "source": "MMA",
+      "target": "running",
+      "weight": 0.0047211610313156955
+    },
+    {
+      "source": "nfl",
+      "target": "tennis",
+      "weight": 0.007759683056820291
+    },
+    {
+      "source": "nfl",
+      "target": "eagles",
+      "weight": 0.006413181728840687
+    },
+    {
+      "source": "nfl",
+      "target": "wwe",
+      "weight": 0.004471141156465628
+    },
+    {
+      "source": "nfl",
+      "target": "greenbaypackers",
+      "weight": 0.00426794451496758
+    },
+    {
+      "source": "nfl",
+      "target": "CFB",
+      "weight": 0.005682790701359617
+    },
+    {
+      "source": "fantasyfootball",
+      "target": "theocho",
+      "weight": 0.004212515582460316
+    },
+    {
+      "source": "leafs",
+      "target": "soccer",
+      "weight": 0.03258661497401236
+    },
+    {
+      "source": "leafs",
+      "target": "sailing",
+      "weight": 0.005207360738579358
+    },
+    {
+      "source": "leafs",
+      "target": "formula1",
+      "weight": 0.010643627867638991
+    },
+    {
+      "source": "Nascar",
+      "target": "theocho",
+      "weight": 0.008370541800202037
+    },
+    {
+      "source": "Nascar",
+      "target": "tennis",
+      "weight": 0.006085709153245915
+    },
+    {
+      "source": "Nascar",
+      "target": "golf",
+      "weight": 0.005391146740494742
+    },
+    {
+      "source": "Nascar",
+      "target": "CFB",
+      "weight": 0.00534558395442217
+    },
+    {
+      "source": "Nascar",
+      "target": "running",
+      "weight": 0.011558549022993093
+    },
+    {
+      "source": "theocho",
+      "target": "tennis",
+      "weight": 0.010845959598546749
+    },
+    {
+      "source": "theocho",
+      "target": "rugbyunion",
+      "weight": 0.00581973490397096
+    },
+    {
+      "source": "theocho",
+      "target": "golf",
+      "weight": 0.00791931207037232
+    },
+    {
+      "source": "theocho",
+      "target": "MLS",
+      "weight": 0.005005783796782038
+    },
+    {
+      "source": "theocho",
+      "target": "CFB",
+      "weight": 0.01886756083342592
+    },
+    {
+      "source": "theocho",
+      "target": "lakers",
+      "weight": 0.004459587174643995
+    },
+    {
+      "source": "theocho",
+      "target": "running",
+      "weight": 0.008747377934695837
+    },
+    {
+      "source": "theocho",
+      "target": "democrats",
+      "weight": 0.004731622601448381
+    },
+    {
+      "source": "tennis",
+      "target": "rugbyunion",
+      "weight": 0.005159098218800136
+    },
+    {
+      "source": "tennis",
+      "target": "golf",
+      "weight": 0.009502584476451319
+    },
+    {
+      "source": "tennis",
+      "target": "CFB",
+      "weight": 0.012395829552368289
+    },
+    {
+      "source": "tennis",
+      "target": "lakers",
+      "weight": 0.004901563952587173
+    },
+    {
+      "source": "tennis",
+      "target": "running",
+      "weight": 0.010032738946395113
+    },
+    {
+      "source": "torontoraptors",
+      "target": "MLS",
+      "weight": 0.010332618389496442
+    },
+    {
+      "source": "torontoraptors",
+      "target": "running",
+      "weight": 0.008280404665754752
+    },
+    {
+      "source": "bicycling",
+      "target": "MLS",
+      "weight": 0.004792819710779453
+    },
+    {
+      "source": "rugbyunion",
+      "target": "nhl",
+      "weight": 0.02527878864683346
+    },
+    {
+      "source": "rugbyunion",
+      "target": "soccer",
+      "weight": 0.004458738571866835
+    },
+    {
+      "source": "rugbyunion",
+      "target": "longboarding",
+      "weight": 0.07164557305558306
+    },
+    {
+      "source": "rugbyunion",
+      "target": "golf",
+      "weight": 0.004572059700377712
+    },
+    {
+      "source": "rugbyunion",
+      "target": "greenbaypackers",
+      "weight": 0.0050357397047632
+    },
+    {
+      "source": "rugbyunion",
+      "target": "CFB",
+      "weight": 0.007103745052468411
+    },
+    {
+      "source": "rugbyunion",
+      "target": "running",
+      "weight": 0.004336478622246954
+    },
+    {
+      "source": "Bundesliga",
+      "target": "soccer",
+      "weight": 0.008194231892615545
+    },
+    {
+      "source": "nhl",
+      "target": "soccer",
+      "weight": 0.005107153082904862
+    },
+    {
+      "source": "nhl",
+      "target": "longboarding",
+      "weight": 0.03052286544773602
+    },
+    {
+      "source": "soccer",
+      "target": "longboarding",
+      "weight": 0.0062552928934508705
+    },
+    {
+      "source": "soccer",
+      "target": "golf",
+      "weight": 0.005426994238161146
+    },
+    {
+      "source": "soccer",
+      "target": "sailing",
+      "weight": 0.024799118506724314
+    },
+    {
+      "source": "soccer",
+      "target": "sportsarefun",
+      "weight": 0.009961359669341615
+    },
+    {
+      "source": "soccer",
+      "target": "formula1",
+      "weight": 0.02054568496076997
+    },
+    {
+      "source": "soccer",
+      "target": "worldcup",
+      "weight": 0.008309228780602826
+    },
+    {
+      "source": "longboarding",
+      "target": "golf",
+      "weight": 0.005561274708202173
+    },
+    {
+      "source": "longboarding",
+      "target": "CFB",
+      "weight": 0.004557174870545596
+    },
+    {
+      "source": "fantasypl",
+      "target": "trumpgret",
+      "weight": 0.018132037938006104
+    },
+    {
+      "source": "fantasypl",
+      "target": "TinyTrumps",
+      "weight": 0.01158413411428193
+    },
+    {
+      "source": "fantasypl",
+      "target": "enlightenedcentrism",
+      "weight": 0.01605144707810256
+    },
+    {
+      "source": "fantasypl",
+      "target": "Libertarian",
+      "weight": 0.010724824201463114
+    },
+    {
+      "source": "fantasypl",
+      "target": "Catholicism",
+      "weight": 0.004346823386207321
+    },
+    {
+      "source": "fantasypl",
+      "target": "Atheism",
+      "weight": 0.004758668672668006
+    },
+    {
+      "source": "fantasypl",
+      "target": "Abrahamic",
+      "weight": 0.005219789160228044
+    },
+    {
+      "source": "fishing",
+      "target": "golf",
+      "weight": 0.004254593198623161
+    },
+    {
+      "source": "fishing",
+      "target": "CFB",
+      "weight": 0.004585069712405135
+    },
+    {
+      "source": "fishing",
+      "target": "running",
+      "weight": 0.00962786207102067
+    },
+    {
+      "source": "wwe",
+      "target": "liberal",
+      "weight": 0.004941176981287498
+    },
+    {
+      "source": "wwe",
+      "target": "politicalhumor",
+      "weight": 0.00447645782310737
+    },
+    {
+      "source": "golf",
+      "target": "MLS",
+      "weight": 0.010976375581815035
+    },
+    {
+      "source": "golf",
+      "target": "CFB",
+      "weight": 0.06914577768494416
+    },
+    {
+      "source": "golf",
+      "target": "lakers",
+      "weight": 0.04077182059789131
+    },
+    {
+      "source": "golf",
+      "target": "sportsarefun",
+      "weight": 0.004856734803375904
+    },
+    {
+      "source": "golf",
+      "target": "running",
+      "weight": 0.006255358927751224
+    },
+    {
+      "source": "greenbaypackers",
+      "target": "CFB",
+      "weight": 0.004298489283525404
+    },
+    {
+      "source": "MLS",
+      "target": "CFB",
+      "weight": 0.010066942571398061
+    },
+    {
+      "source": "MLS",
+      "target": "lakers",
+      "weight": 0.02242396316851332
+    },
+    {
+      "source": "CFB",
+      "target": "lakers",
+      "weight": 0.042904840230284694
+    },
+    {
+      "source": "CFB",
+      "target": "running",
+      "weight": 0.00582964317845541
+    },
+    {
+      "source": "sailing",
+      "target": "formula1",
+      "weight": 0.012940394928634828
+    },
+    {
+      "source": "sailing",
+      "target": "trumpgret",
+      "weight": 0.004373035991274029
+    },
+    {
+      "source": "sportsarefun",
+      "target": "trumpgret",
+      "weight": 0.008313210874870738
+    },
+    {
+      "source": "sportsarefun",
+      "target": "TinyTrumps",
+      "weight": 0.005311115607857563
+    },
+    {
+      "source": "sportsarefun",
+      "target": "selfawarewolves",
+      "weight": 0.004915060649424802
+    },
+    {
+      "source": "sportsarefun",
+      "target": "enlightenedcentrism",
+      "weight": 0.0064393854543769525
+    },
+    {
+      "source": "sportsarefun",
+      "target": "Libertarian",
+      "weight": 0.004917137581970244
+    },
+    {
+      "source": "trumpgret",
+      "target": "TinyTrumps",
+      "weight": 0.049690399499995326
+    },
+    {
+      "source": "trumpgret",
+      "target": "anarcho_capitalism",
+      "weight": 0.005261700561773909
+    },
+    {
+      "source": "trumpgret",
+      "target": "MensRights",
+      "weight": 0.007829402944667187
+    },
+    {
+      "source": "trumpgret",
+      "target": "democrats",
+      "weight": 0.007249676792447677
+    },
+    {
+      "source": "trumpgret",
+      "target": "feminism",
+      "weight": 0.013749298523071756
+    },
+    {
+      "source": "trumpgret",
+      "target": "socialism",
+      "weight": 0.0055565006190234035
+    },
+    {
+      "source": "trumpgret",
+      "target": "republicans",
+      "weight": 0.008789829020535425
+    },
+    {
+      "source": "trumpgret",
+      "target": "keep_track",
+      "weight": 0.006621708894137312
+    },
+    {
+      "source": "trumpgret",
+      "target": "enlightenedcentrism",
+      "weight": 0.06024640760767093
+    },
+    {
+      "source": "trumpgret",
+      "target": "Libertarian",
+      "weight": 0.040253824294970666
+    },
+    {
+      "source": "trumpgret",
+      "target": "geopolitics",
+      "weight": 0.009390602830316851
+    },
+    {
+      "source": "trumpgret",
+      "target": "latestagecapitalism",
+      "weight": 0.012223027057085615
+    },
+    {
+      "source": "trumpgret",
+      "target": "worldpolitics",
+      "weight": 0.006011130897782882
+    },
+    {
+      "source": "trumpgret",
+      "target": "Catholicism",
+      "weight": 0.01864579505776494
+    },
+    {
+      "source": "trumpgret",
+      "target": "ChristianBooks",
+      "weight": 0.009174698042719672
+    },
+    {
+      "source": "trumpgret",
+      "target": "exmuslim",
+      "weight": 0.004683369244877333
+    },
+    {
+      "source": "trumpgret",
+      "target": "Pagan",
+      "weight": 0.0059676239503286075
+    },
+    {
+      "source": "trumpgret",
+      "target": "Buddhism",
+      "weight": 0.004781460921243724
+    },
+    {
+      "source": "trumpgret",
+      "target": "Christianity",
+      "weight": 0.010143010324169742
+    },
+    {
+      "source": "trumpgret",
+      "target": "Quakers",
+      "weight": 0.008306886635937217
+    },
+    {
+      "source": "trumpgret",
+      "target": "Faith",
+      "weight": 0.005465215298199608
+    },
+    {
+      "source": "trumpgret",
+      "target": "Stoicism",
+      "weight": 0.004267324965382029
+    },
+    {
+      "source": "trumpgret",
+      "target": "Atheism",
+      "weight": 0.006804138174397716
+    },
+    {
+      "source": "trumpgret",
+      "target": "Hinduism",
+      "weight": 0.004392052305789416
+    },
+    {
+      "source": "trumpgret",
+      "target": "Abrahamic",
+      "weight": 0.022390401053601273
+    },
+    {
+      "source": "trumpgret",
+      "target": "dankchristianmemes",
+      "weight": 0.009492627188725565
+    },
+    {
+      "source": "trumpgret",
+      "target": "Zen",
+      "weight": 0.007519061581466272
+    },
+    {
+      "source": "trumpgret",
+      "target": "exmormon",
+      "weight": 0.004403299577228984
+    },
+    {
+      "source": "trumpgret",
+      "target": "askphilosophy",
+      "weight": 0.00688361814892649
+    },
+    {
+      "source": "MarchAgainstTrump",
+      "target": "communism",
+      "weight": 0.010257204548017514
+    },
+    {
+      "source": "MarchAgainstTrump",
+      "target": "feminism",
+      "weight": 0.024813569947549304
+    },
+    {
+      "source": "MarchAgainstTrump",
+      "target": "enlightenedcentrism",
+      "weight": 0.007766258281431448
+    },
+    {
+      "source": "MarchAgainstTrump",
+      "target": "TheologyClinic",
+      "weight": 0.005639735434936769
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "feminism",
+      "weight": 0.00878410461157883
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "republicans",
+      "weight": 0.010646271566947035
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "conservative",
+      "weight": 0.004766622101390299
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "enlightenedcentrism",
+      "weight": 0.03849001794597505
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "Libertarian",
+      "weight": 0.025717224993681988
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "geopolitics",
+      "weight": 0.0059994360795115435
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "latestagecapitalism",
+      "weight": 0.006073670975658364
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "Catholicism",
+      "weight": 0.011912361498197719
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "Quakers",
+      "weight": 0.005307075199811476
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "Abrahamic",
+      "weight": 0.014304702514095819
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "dankchristianmemes",
+      "weight": 0.0060646170511580244
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "Zen",
+      "weight": 0.004803752235190188
+    },
+    {
+      "source": "TinyTrumps",
+      "target": "askphilosophy",
+      "weight": 0.0043977823177574005
+    },
+    {
+      "source": "politicaldiscussion",
+      "target": "socialism",
+      "weight": 0.005603091861091089
+    },
+    {
+      "source": "politicaldiscussion",
+      "target": "conservative",
+      "weight": 0.012727731859554123
+    },
+    {
+      "source": "completeanarchy",
+      "target": "exmuslim",
+      "weight": 0.005094703311289862
+    },
+    {
+      "source": "completeanarchy",
+      "target": "Religion",
+      "weight": 0.00666609607692198
+    },
+    {
+      "source": "liberal",
+      "target": "communism",
+      "weight": 0.006250999796204909
+    },
+    {
+      "source": "liberal",
+      "target": "political_revolution",
+      "weight": 0.01370043877168716
+    },
+    {
+      "source": "liberal",
+      "target": "keep_track",
+      "weight": 0.005659753229128061
+    },
+    {
+      "source": "liberal",
+      "target": "esist",
+      "weight": 0.00935764085331144
+    },
+    {
+      "source": "liberal",
+      "target": "Judaism",
+      "weight": 0.005440735127533504
+    },
+    {
+      "source": "liberal",
+      "target": "ChristianApologetics",
+      "weight": 0.004472601129707412
+    },
+    {
+      "source": "selfawarewolves",
+      "target": "MensRights",
+      "weight": 0.0060928935150479585
+    },
+    {
+      "source": "selfawarewolves",
+      "target": "democrats",
+      "weight": 0.010001278351594521
+    },
+    {
+      "source": "selfawarewolves",
+      "target": "impeach_trump",
+      "weight": 0.005178081383343334
+    },
+    {
+      "source": "selfawarewolves",
+      "target": "political_revolution",
+      "weight": 0.010073671054623692
+    },
+    {
+      "source": "selfawarewolves",
+      "target": "republicans",
+      "weight": 0.013991529852997292
+    },
+    {
+      "source": "selfawarewolves",
+      "target": "keep_track",
+      "weight": 0.015810518746222947
+    },
+    {
+      "source": "selfawarewolves",
+      "target": "anarchism",
+      "weight": 0.013332432909292825
+    },
+    {
+      "source": "selfawarewolves",
+      "target": "latestagecapitalism",
+      "weight": 0.027239026673798183
+    },
+    {
+      "source": "selfawarewolves",
+      "target": "esist",
+      "weight": 0.02453045922139009
+    },
+    {
+      "source": "selfawarewolves",
+      "target": "ChristianBooks",
+      "weight": 0.01752499093081954
+    },
+    {
+      "source": "selfawarewolves",
+      "target": "Atheism",
+      "weight": 0.006498440561375454
+    },
+    {
+      "source": "selfawarewolves",
+      "target": "Religion",
+      "weight": 0.006001581245664888
+    },
+    {
+      "source": "communism",
+      "target": "feminism",
+      "weight": 0.005805052498246828
+    },
+    {
+      "source": "communism",
+      "target": "political_revolution",
+      "weight": 0.007906606830787314
+    },
+    {
+      "source": "communism",
+      "target": "keep_track",
+      "weight": 0.006272477909218144
+    },
+    {
+      "source": "communism",
+      "target": "politicalhumor",
+      "weight": 0.0045205378834575006
+    },
+    {
+      "source": "communism",
+      "target": "worldpolitics",
+      "weight": 0.007516214621707506
+    },
+    {
+      "source": "communism",
+      "target": "TheologyClinic",
+      "weight": 0.005473055982205654
+    },
+    {
+      "source": "MensRights",
+      "target": "democrats",
+      "weight": 0.01948782001715849
+    },
+    {
+      "source": "MensRights",
+      "target": "political_revolution",
+      "weight": 0.012721945044953643
+    },
+    {
+      "source": "MensRights",
+      "target": "republicans",
+      "weight": 0.01402189431786211
+    },
+    {
+      "source": "MensRights",
+      "target": "keep_track",
+      "weight": 0.031884076675409864
+    },
+    {
+      "source": "MensRights",
+      "target": "enlightenedcentrism",
+      "weight": 0.006064629443088665
+    },
+    {
+      "source": "MensRights",
+      "target": "anarchism",
+      "weight": 0.013341580757118589
+    },
+    {
+      "source": "MensRights",
+      "target": "latestagecapitalism",
+      "weight": 0.025626066635635297
+    },
+    {
+      "source": "MensRights",
+      "target": "esist",
+      "weight": 0.016630986046841365
+    },
+    {
+      "source": "MensRights",
+      "target": "Religion",
+      "weight": 0.010036642969809875
+    },
+    {
+      "source": "democrats",
+      "target": "political_revolution",
+      "weight": 0.014693939946342813
+    },
+    {
+      "source": "democrats",
+      "target": "republicans",
+      "weight": 0.12975681287493382
+    },
+    {
+      "source": "democrats",
+      "target": "keep_track",
+      "weight": 0.02442267057942733
+    },
+    {
+      "source": "democrats",
+      "target": "enlightenedcentrism",
+      "weight": 0.004367669830616752
+    },
+    {
+      "source": "democrats",
+      "target": "anarchism",
+      "weight": 0.0519274455278945
+    },
+    {
+      "source": "democrats",
+      "target": "latestagecapitalism",
+      "weight": 0.014079620410286164
+    },
+    {
+      "source": "democrats",
+      "target": "esist",
+      "weight": 0.008001726394199833
+    },
+    {
+      "source": "democrats",
+      "target": "Religion",
+      "weight": 0.013612218178599261
+    },
+    {
+      "source": "feminism",
+      "target": "enlightenedcentrism",
+      "weight": 0.01065016084037823
+    },
+    {
+      "source": "feminism",
+      "target": "Libertarian",
+      "weight": 0.0071159380319163875
+    },
+    {
+      "source": "feminism",
+      "target": "Catholicism",
+      "weight": 0.004237896897630065
+    },
+    {
+      "source": "political_revolution",
+      "target": "republicans",
+      "weight": 0.013107984443973915
+    },
+    {
+      "source": "political_revolution",
+      "target": "keep_track",
+      "weight": 0.01802936004393297
+    },
+    {
+      "source": "political_revolution",
+      "target": "anarchism",
+      "weight": 0.008002817487720823
+    },
+    {
+      "source": "political_revolution",
+      "target": "Libertarian",
+      "weight": 0.00619656373657836
+    },
+    {
+      "source": "political_revolution",
+      "target": "latestagecapitalism",
+      "weight": 0.012961991362070652
+    },
+    {
+      "source": "political_revolution",
+      "target": "esist",
+      "weight": 0.008495302171980091
+    },
+    {
+      "source": "political_revolution",
+      "target": "Religion",
+      "weight": 0.02141662607712143
+    },
+    {
+      "source": "socialism",
+      "target": "conservative",
+      "weight": 0.004797136877783704
+    },
+    {
+      "source": "socialism",
+      "target": "enlightenedcentrism",
+      "weight": 0.004304046872133769
+    },
+    {
+      "source": "republicans",
+      "target": "keep_track",
+      "weight": 0.014487261965959146
+    },
+    {
+      "source": "republicans",
+      "target": "enlightenedcentrism",
+      "weight": 0.0059575007471952615
+    },
+    {
+      "source": "republicans",
+      "target": "anarchism",
+      "weight": 0.039270124736289214
+    },
+    {
+      "source": "republicans",
+      "target": "latestagecapitalism",
+      "weight": 0.015578556102048323
+    },
+    {
+      "source": "republicans",
+      "target": "esist",
+      "weight": 0.006383866936570906
+    },
+    {
+      "source": "republicans",
+      "target": "Religion",
+      "weight": 0.015584402096796192
+    },
+    {
+      "source": "conservative",
+      "target": "Stoicism",
+      "weight": 0.00571418072860666
+    },
+    {
+      "source": "conservative",
+      "target": "Religion",
+      "weight": 0.004665614561781255
+    },
+    {
+      "source": "keep_track",
+      "target": "enlightenedcentrism",
+      "weight": 0.005129153654085469
+    },
+    {
+      "source": "keep_track",
+      "target": "anarchism",
+      "weight": 0.014845619673832468
+    },
+    {
+      "source": "keep_track",
+      "target": "latestagecapitalism",
+      "weight": 0.03217258747343097
+    },
+    {
+      "source": "keep_track",
+      "target": "esist",
+      "weight": 0.017530335698870702
+    },
+    {
+      "source": "keep_track",
+      "target": "Religion",
+      "weight": 0.01494222089751329
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "Libertarian",
+      "weight": 0.031180478223116176
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "geopolitics",
+      "weight": 0.007273929674533079
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "latestagecapitalism",
+      "weight": 0.0073639347028077035
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "worldpolitics",
+      "weight": 0.004656201971797188
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "Catholicism",
+      "weight": 0.014442970747104034
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "ChristianBooks",
+      "weight": 0.007106690545187015
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "Pagan",
+      "weight": 0.004622501635210243
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "Buddhism",
+      "weight": 0.025925925925925925
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "Christianity",
+      "weight": 0.007856742013183862
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "Quakers",
+      "weight": 0.00643448671996356
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "Faith",
+      "weight": 0.004233337566673017
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "Atheism",
+      "weight": 0.005270462766947299
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "Abrahamic",
+      "weight": 0.01734353007910055
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "dankchristianmemes",
+      "weight": 0.007352957402737968
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "Zen",
+      "weight": 0.005824240056825375
+    },
+    {
+      "source": "enlightenedcentrism",
+      "target": "askphilosophy",
+      "weight": 0.009902337139478985
+    },
+    {
+      "source": "anarchism",
+      "target": "latestagecapitalism",
+      "weight": 0.010767261118764096
+    },
+    {
+      "source": "anarchism",
+      "target": "esist",
+      "weight": 0.006495903594438491
+    },
+    {
+      "source": "anarchism",
+      "target": "Religion",
+      "weight": 0.010976606070629571
+    },
+    {
+      "source": "Libertarian",
+      "target": "geopolitics",
+      "weight": 0.004860098695998369
+    },
+    {
+      "source": "Libertarian",
+      "target": "latestagecapitalism",
+      "weight": 0.005623126668669676
+    },
+    {
+      "source": "Libertarian",
+      "target": "Catholicism",
+      "weight": 0.0096501157469396
+    },
+    {
+      "source": "Libertarian",
+      "target": "ChristianBooks",
+      "weight": 0.0047483573524849144
+    },
+    {
+      "source": "Libertarian",
+      "target": "Christianity",
+      "weight": 0.0052495065695726
+    },
+    {
+      "source": "Libertarian",
+      "target": "Quakers",
+      "weight": 0.004299222279616158
+    },
+    {
+      "source": "Libertarian",
+      "target": "Atheism",
+      "weight": 0.007042952122737638
+    },
+    {
+      "source": "Libertarian",
+      "target": "Abrahamic",
+      "weight": 0.01158813347021475
+    },
+    {
+      "source": "Libertarian",
+      "target": "dankchristianmemes",
+      "weight": 0.00491290131796226
+    },
+    {
+      "source": "latestagecapitalism",
+      "target": "esist",
+      "weight": 0.02036375872158364
+    },
+    {
+      "source": "latestagecapitalism",
+      "target": "Religion",
+      "weight": 0.011060402414662242
+    },
+    {
+      "source": "esist",
+      "target": "Religion",
+      "weight": 0.007631964841511686
+    },
+    {
+      "source": "Catholicism",
+      "target": "Abrahamic",
+      "weight": 0.006134500348995138
+    },
+    {
+      "source": "ChristianBooks",
+      "target": "Pagan",
+      "weight": 0.004927603299909022
+    },
+    {
+      "source": "ChristianBooks",
+      "target": "Christianity",
+      "weight": 0.0083753151271601
+    },
+    {
+      "source": "ChristianBooks",
+      "target": "Faith",
+      "weight": 0.00451275300894902
+    },
+    {
+      "source": "ChristianBooks",
+      "target": "Atheism",
+      "weight": 0.005618332187193684
+    },
+    {
+      "source": "exmuslim",
+      "target": "Quakers",
+      "weight": 0.004859057355827696
+    },
+    {
+      "source": "exmuslim",
+      "target": "Religion",
+      "weight": 0.009580677768046992
+    },
+    {
+      "source": "BibleStudy",
+      "target": "Christianity",
+      "weight": 0.00445514966535903
+    },
+    {
+      "source": "BibleStudy",
+      "target": "philosophy",
+      "weight": 0.01754997217113272
+    },
+    {
+      "source": "BibleStudy",
+      "target": "Judaism",
+      "weight": 0.005242360402994322
+    },
+    {
+      "source": "BibleStudy",
+      "target": "Hinduism",
+      "weight": 0.005305125083311158
+    },
+    {
+      "source": "BibleStudy",
+      "target": "PrayerRequests",
+      "weight": 0.0056124110988495035
+    },
+    {
+      "source": "BibleStudy",
+      "target": "askphilosophy",
+      "weight": 0.014361698700332102
+    },
+    {
+      "source": "BibleStudy",
+      "target": "TheologyClinic",
+      "weight": 0.034162603562902266
+    },
+    {
+      "source": "Pagan",
+      "target": "Christianity",
+      "weight": 0.0054476704205051124
+    },
+    {
+      "source": "Pagan",
+      "target": "Hinduism",
+      "weight": 0.004717820975602483
+    },
+    {
+      "source": "Pagan",
+      "target": "PrayerRequests",
+      "weight": 0.006405230728252737
+    },
+    {
+      "source": "trueatheism",
+      "target": "ChristianApologetics",
+      "weight": 0.006584118890270128
+    },
+    {
+      "source": "Buddhism",
+      "target": "Christianity",
+      "weight": 0.004364856673991034
+    },
+    {
+      "source": "Buddhism",
+      "target": "Talmud",
+      "weight": 0.004491400463635796
+    },
+    {
+      "source": "Buddhism",
+      "target": "Agnosticism",
+      "weight": 0.006439360932866396
+    },
+    {
+      "source": "Psychonaut",
+      "target": "Religion",
+      "weight": 0.004798275906569721
+    },
+    {
+      "source": "Psychonaut",
+      "target": "Zen",
+      "weight": 0.05376203779540181
+    },
+    {
+      "source": "Christianity",
+      "target": "Faith",
+      "weight": 0.004989036167410414
+    },
+    {
+      "source": "Christianity",
+      "target": "Atheism",
+      "weight": 0.006211299937499416
+    },
+    {
+      "source": "Christianity",
+      "target": "Hinduism",
+      "weight": 0.012028130608117204
+    },
+    {
+      "source": "Christianity",
+      "target": "TheologyClinic",
+      "weight": 0.005071505162084871
+    },
+    {
+      "source": "Taoism",
+      "target": "Abrahamic",
+      "weight": 0.005540187460954447
+    },
+    {
+      "source": "Faith",
+      "target": "ChristianApologetics",
+      "weight": 0.016515511220157417
+    },
+    {
+      "source": "Stoicism",
+      "target": "philosophy",
+      "weight": 0.015438438470015588
+    },
+    {
+      "source": "Stoicism",
+      "target": "Abrahamic",
+      "weight": 0.008248251155224765
+    },
+    {
+      "source": "Stoicism",
+      "target": "PrayerRequests",
+      "weight": 0.0044867740980473235
+    },
+    {
+      "source": "Atheism",
+      "target": "Talmud",
+      "weight": 0.019174124721184262
+    },
+    {
+      "source": "philosophy",
+      "target": "Hinduism",
+      "weight": 0.004977490202998281
+    },
+    {
+      "source": "philosophy",
+      "target": "Abrahamic",
+      "weight": 0.007528824173345203
+    },
+    {
+      "source": "philosophy",
+      "target": "Agnosticism",
+      "weight": 0.00833938849201536
+    },
+    {
+      "source": "philosophy",
+      "target": "PrayerRequests",
+      "weight": 0.007945955357958381
+    },
+    {
+      "source": "philosophy",
+      "target": "askphilosophy",
+      "weight": 0.007501123951582549
+    },
+    {
+      "source": "philosophy",
+      "target": "TheologyClinic",
+      "weight": 0.004479904805292247
+    },
+    {
+      "source": "Judaism",
+      "target": "PrayerRequests",
+      "weight": 0.004270153818835158
+    },
+    {
+      "source": "Talmud",
+      "target": "occult",
+      "weight": 0.00806661489709096
+    },
+    {
+      "source": "Talmud",
+      "target": "ChristianApologetics",
+      "weight": 0.005017747103939741
+    },
+    {
+      "source": "Hinduism",
+      "target": "Agnosticism",
+      "weight": 0.005914930708175607
+    },
+    {
+      "source": "occult",
+      "target": "Agnosticism",
+      "weight": 0.012115900528089179
+    },
+    {
+      "source": "occult",
+      "target": "Religion",
+      "weight": 0.009907691954430689
+    },
+    {
+      "source": "Agnosticism",
+      "target": "Religion",
+      "weight": 0.005295267344375286
+    },
+    {
+      "source": "ChristianApologetics",
+      "target": "TrueChristian",
+      "weight": 0.004850449239450363
+    },
+    {
+      "source": "ChristianApologetics",
+      "target": "exmormon",
+      "weight": 0.0053571517451597465
+    },
+    {
+      "source": "LosingFaith",
+      "target": "Zen",
+      "weight": 0.004803752235190188
+    },
+    {
+      "source": "LosingFaith",
+      "target": "TheologyClinic",
+      "weight": 0.018633899812498248
+    },
+    {
+      "source": "askphilosophy",
+      "target": "TheologyClinic",
+      "weight": 0.00909620969679572
+    }
+  ]
+}
